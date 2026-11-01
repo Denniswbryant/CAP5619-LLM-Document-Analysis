@@ -1,0 +1,204 @@
+{
+  "reviewer": "Codex-assisted source review; not an independent human-labeled benchmark",
+  "definition": "Explicit current introduction of a named operating product or service; exclude retrospective launches, sales metrics, financing and future plans. New product headings in a current release qualify when not described as past events.",
+  "positive_reviews": [
+    {
+      "raw_row": {
+        "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+        "stock_name": "IBM",
+        "filing_time": "2026-07-14T11:01:52.000Z",
+        "new_product": "Lightwell",
+        "product_description": "a trusted enterprise clearinghouse to address open source software vulnerabilities"
+      },
+      "decision": "reject",
+      "reason": "Retrospective: July 14 investor letter explicitly says general availability was announced on July 8.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/ibm-20260714xex991.htm",
+      "model_evidence": "Lightwell is a $5 billion commitment backed by new frontier AI capabilities and a global force of more than 20,000 engineers creating a trusted enterprise clearinghouse to address open source software vulnerabilities."
+    },
+    {
+      "raw_row": {
+        "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+        "stock_name": "IBM",
+        "filing_time": "2026-07-14T11:01:52.000Z",
+        "new_product": "Anderon",
+        "product_description": "the world\u2019s first pure-play quantum wafer foundry"
+      },
+      "decision": "reject",
+      "reason": "Future plan: letter of intent to build a foundry, not a released operating product.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/ibm-20260714xex991.htm",
+      "model_evidence": "Recently, with the U.S. Department of Commerce, we announced a letter of intent to build Anderon, the world\u2019s first pure-play quantum wafer foundry supported by $1 billion in CHIPS incentives provided by the DoC and a $1 billion cash contribution by IBM."
+    },
+    {
+      "raw_row": {
+        "company_name": "ORACLE CORP",
+        "stock_name": "ORCL",
+        "filing_time": "2026-09-10T20:16:50.000Z",
+        "new_product": "Oracle AI Data Platform",
+        "product_description": "Automatically generates Enterprise Ontology"
+      },
+      "decision": "accept",
+      "reason": "Accepted: source contains an explicit new product heading and description, or a current launch statement.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm",
+      "model_evidence": "The new Oracle AI Data Platform fully automates the creation of Enterprise Ontologies\u2014making it inexpensive, easy and fast and for any enterprise to use the most advanced AI models to reason on their private data and automate their business processes."
+    },
+    {
+      "raw_row": {
+        "company_name": "ORACLE CORP",
+        "stock_name": "ORCL",
+        "filing_time": "2026-09-10T20:16:50.000Z",
+        "new_product": "100% Agentic AI Health Care Management System",
+        "product_description": "All-new 100% Agentic system made up of a collection of AI agents for every medical specialty"
+      },
+      "decision": "accept",
+      "reason": "Accepted: source contains an explicit new product heading and description, or a current launch statement.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm",
+      "model_evidence": "Oracle\u2019s AI Health Care Management and Electronic Health Records system is an all-new 100% Agentic system made up of a collection of AI agents for every medical specialty from General Medicine to Oncology to Radiology."
+    },
+    {
+      "raw_row": {
+        "company_name": "Salesforce, Inc.",
+        "stock_name": "CRM",
+        "filing_time": "2026-05-27T20:18:26.000Z",
+        "new_product": "Slack Model Context Protocol",
+        "product_description": "surpassed 1 million active users"
+      },
+      "decision": "reject",
+      "reason": "Retrospective adoption metric: one million active users within six weeks of launch.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000125/crm-q1fy27xexhibit991.htm",
+      "model_evidence": "surpassed 1 million active users within six weeks of launch"
+    },
+    {
+      "raw_row": {
+        "company_name": "Mitesco, Inc.",
+        "stock_name": "MITI",
+        "filing_time": "2025-08-28T21:27:02Z",
+        "new_product": "Crypto Processing Services (CPS)",
+        "product_description": "secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions"
+      },
+      "decision": "accept",
+      "reason": "Accepted: source contains an explicit new product heading and description, or a current launch statement.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/mitiex99-1.htm",
+      "model_evidence": "This new offering enables businesses and individual operators to leverage Centcore\u2019s secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions."
+    }
+  ],
+  "negative_sampling": "Seed 42 simple random sample of ten completed zero-row filings; errors excluded. Review focused on filing item text, exhibit context and launch wording, not exhaustive external fact checking.",
+  "negative_reviews": [
+    {
+      "accession": "0000858877-25-000199",
+      "ticker": "CSCO",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/858877/000085887725000199/csco-20251216.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Stock incentive plan and shareholder voting results."
+    },
+    {
+      "accession": "0001193125-26-224155",
+      "ticker": "MSFT",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/789019/000119312526224155/d125909d8k.htm",
+        "https://www.sec.gov/Archives/edgar/data/789019/000119312526224155/d125909dex991.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Director appointment, not a product."
+    },
+    {
+      "accession": "0001140361-26-006577",
+      "ticker": "AAPL",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/ef20060722_8k.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Annual shareholder voting results."
+    },
+    {
+      "accession": "0000050863-26-000118",
+      "ticker": "INTC",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/50863/000005086326000118/intc-20260513.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Annual meeting voting results."
+    },
+    {
+      "accession": "0001193125-26-226746",
+      "ticker": "AMD",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/2488/000119312526226746/d118163d8k.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Credit facility and commercial paper financing."
+    },
+    {
+      "accession": "0000002488-26-000163",
+      "ticker": "AMD",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248826000163/amd-20260817.htm",
+        "https://www.sec.gov/Archives/edgar/data/2488/000000248826000163/pressrelease_bodxtr8x19x26.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Director retirement, appointment and committee changes."
+    },
+    {
+      "accession": "0001193125-25-311196",
+      "ticker": "MSFT",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/789019/000119312525311196/d34077d8k.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Stock plan and annual shareholder voting results."
+    },
+    {
+      "accession": "0001193125-26-258667",
+      "ticker": "MSFT",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/789019/000119312526258667/d26760d8k.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Director decision not to stand for re-election."
+    },
+    {
+      "accession": "0000796343-26-000109",
+      "ticker": "ADBE",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634326000109/adbe-20260608.htm",
+        "https://www.sec.gov/Archives/edgar/data/796343/000079634326000109/adbeex991q226.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Quarterly financial results and CFO transition; no new product introduction found in launch-context screen."
+    },
+    {
+      "accession": "0001193125-26-380280",
+      "ticker": "MSFT",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/d291965d8k.htm",
+        "https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/d291965dex991.htm"
+      ],
+      "decision": "no qualifying current announcement found",
+      "reason": "Changes to financial reporting segments and investor metrics, not new product launches."
+    }
+  ],
+  "final_rows": [
+    {
+      "company_name": "ORACLE CORP",
+      "stock_name": "ORCL",
+      "filing_time": "2026-09-10T20:16:50.000Z",
+      "new_product": "Oracle AI Data Platform",
+      "product_description": "Platform that automates enterprise ontology creation so AI models can reason on private business data."
+    },
+    {
+      "company_name": "ORACLE CORP",
+      "stock_name": "ORCL",
+      "filing_time": "2026-09-10T20:16:50.000Z",
+      "new_product": "100% Agentic AI Health Care Management System",
+      "product_description": "Agentic electronic health records and hospital management system with AI agents for medical specialties."
+    },
+    {
+      "company_name": "Mitesco, Inc.",
+      "stock_name": "MITI",
+      "filing_time": "2025-08-28T21:27:02Z",
+      "new_product": "Crypto Processing Services (CPS)",
+      "product_description": "Data center services for cryptocurrency transaction processing, mining and blockchain hosting."
+    }
+  ]
+}

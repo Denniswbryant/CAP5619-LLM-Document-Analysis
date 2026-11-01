@@ -1,0 +1,59 @@
+[
+  {
+    "accession": "0001185185-25-001092",
+    "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/miti8k082725.htm",
+    "chunk": 0,
+    "screened_out": true,
+    "text_sha256": "734b260d576279a94463c311973653a3e94c5f251b80327cad751b5829ccb676"
+  },
+  {
+    "accession": "0001185185-25-001092",
+    "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/miti8k082725.htm",
+    "chunk": 1,
+    "screened_out": true,
+    "text_sha256": "3c6e294ac2199228712a061ae8cf05c9ca0c27d449a783b0da7c9bee8c830495"
+  },
+  {
+    "accession": "0001185185-25-001092",
+    "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/mitiex99-1.htm",
+    "chunk": 0,
+    "model": "llama3.1:8b",
+    "response": {
+      "entities": [
+        {
+          "text": "Mitesco, Inc.",
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Centcore",
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Brian Valania",
+          "label": "ORGANIZATION"
+        }
+      ],
+      "products": [
+        {
+          "new_product": "Crypto Processing Services (CPS)",
+          "product_description": "secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions",
+          "evidence": "This new offering enables businesses and individual operators to leverage Centcore\u2019s secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions."
+        }
+      ]
+    }
+  },
+  {
+    "accession": "0001185185-25-001092",
+    "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/mitiex99-1.htm",
+    "chunk": 0,
+    "candidate": {
+      "new_product": "Crypto Processing Services (CPS)",
+      "product_description": "secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions",
+      "evidence": "This new offering enables businesses and individual operators to leverage Centcore\u2019s secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions."
+    },
+    "verification": {
+      "category": "CURRENT_PRODUCT_ANNOUNCEMENT",
+      "reason": "The document explicitly announces the launch of a named operating product or service, Crypto Processing Services (CPS), with a clear product description and evidence of its introduction."
+    }
+  }
+]

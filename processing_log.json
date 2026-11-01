@@ -1,0 +1,1002 @@
+[
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-07-30T20:30:28.000Z",
+    "accession": "0000320193-26-000018",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/",
+    "primary": "aapl-20260730.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-04-30T20:30:41.000Z",
+    "accession": "0000320193-26-000011",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000011/",
+    "primary": "aapl-20260430.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-04-20T21:29:51.000Z",
+    "accession": "0001140361-26-015711",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036126015711/",
+    "primary": "ef20071035_8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-02-24T21:55:58.000Z",
+    "accession": "0001140361-26-006577",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/",
+    "primary": "ef20060722_8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-01-29T21:30:33.000Z",
+    "accession": "0000320193-26-000005",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000005/",
+    "primary": "aapl-20260129.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-01-02T21:30:52.000Z",
+    "accession": "0001140361-26-000199",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036126000199/",
+    "primary": "ef20060722_8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-12-05T21:31:42.000Z",
+    "accession": "0001140361-25-044561",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036125044561/",
+    "primary": "ef20060722_8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-10-30T20:30:35.000Z",
+    "accession": "0000320193-25-000077",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000077/",
+    "primary": "aapl-20251030.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-07-31T20:30:25.000Z",
+    "accession": "0000320193-25-000071",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000071/",
+    "primary": "aapl-20250731.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-07-25T20:30:49.000Z",
+    "accession": "0001140361-25-027340",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/",
+    "primary": "ef20052355_8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2026-10-28T20:11:03.000Z",
+    "accession": "0001193125-26-436149",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436149/",
+    "primary": "msft-20261028.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2026-10-28T20:04:44.000Z",
+    "accession": "0001193125-26-436122",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/",
+    "primary": "msft-20261028.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2026-09-02T20:30:24.000Z",
+    "accession": "0001193125-26-380280",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/",
+    "primary": "d291965d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2026-07-29T20:04:53.000Z",
+    "accession": "0001193125-26-323632",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323632/",
+    "primary": "msft-20260729.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2026-06-05T14:36:56.000Z",
+    "accession": "0001193125-26-258667",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312526258667/",
+    "primary": "d26760d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2026-05-14T20:28:48.000Z",
+    "accession": "0001193125-26-224155",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312526224155/",
+    "primary": "d125909d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2026-04-29T20:03:31.000Z",
+    "accession": "0001193125-26-191457",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191457/",
+    "primary": "msft-20260429.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2026-01-28T21:04:38.000Z",
+    "accession": "0001193125-26-027198",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027198/",
+    "primary": "msft-20260128.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2025-12-08T21:00:35.000Z",
+    "accession": "0001193125-25-311196",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312525311196/",
+    "primary": "d34077d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "MICROSOFT CORP",
+    "stock_name": "MSFT",
+    "filing_time": "2025-10-29T20:07:42.000Z",
+    "accession": "0001193125-25-256310",
+    "base": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256310/",
+    "primary": "msft-20251028.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-09-03T12:03:56.000Z",
+    "accession": "0001045810-26-000078",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/",
+    "primary": "nvda-20260902.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-08-26T20:21:19.000Z",
+    "accession": "0001045810-26-000073",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/",
+    "primary": "nvda-20260826.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-08-17T12:41:33.000Z",
+    "accession": "0001045810-26-000069",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/",
+    "primary": "nvda-20260817.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-07-02T13:23:16.000Z",
+    "accession": "0001045810-26-000060",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000060/",
+    "primary": "nvda-20260628.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-06-30T20:27:26.000Z",
+    "accession": "0001045810-26-000056",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000056/",
+    "primary": "nvda-20260624.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-06-18T20:00:24.000Z",
+    "accession": "0001193125-26-275783",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000119312526275783/",
+    "primary": "d48176d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-05-20T20:21:19.000Z",
+    "accession": "0001045810-26-000051",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000051/",
+    "primary": "nvda-20260520.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-05-08T20:35:07.000Z",
+    "accession": "0001045810-26-000028",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000028/",
+    "primary": "nvda-20260507.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-04-27T20:10:30.000Z",
+    "accession": "0001045810-26-000026",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000026/",
+    "primary": "nvda-20260424.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-03-06T21:11:25.000Z",
+    "accession": "0001045810-26-000024",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000024/",
+    "primary": "nvda-20260302.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-09-28T20:16:47.000Z",
+    "accession": "0000002488-26-000182",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000182/",
+    "primary": "amd-20260926.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-08-19T20:16:56.000Z",
+    "accession": "0000002488-26-000163",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000163/",
+    "primary": "amd-20260817.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-08-17T20:05:40.000Z",
+    "accession": "0001193125-26-354029",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000119312526354029/",
+    "primary": "d142696d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-08-04T20:16:24.000Z",
+    "accession": "0000002488-26-000121",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/",
+    "primary": "amd-20260804.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-07-01T20:27:26.000Z",
+    "accession": "0000002488-26-000115",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000115/",
+    "primary": "amd-20260626.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-05-15T20:12:53.000Z",
+    "accession": "0001193125-26-226746",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000119312526226746/",
+    "primary": "d118163d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-05-05T20:16:06.000Z",
+    "accession": "0000002488-26-000072",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000072/",
+    "primary": "amd-20260505.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-02-24T12:01:06.000Z",
+    "accession": "0000002488-26-000045",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000045/",
+    "primary": "amd-20260223.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-02-17T21:21:24.000Z",
+    "accession": "0000002488-26-000029",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000029/",
+    "primary": "amd-20260210.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-02-03T21:16:18.000Z",
+    "accession": "0000002488-26-000014",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000014/",
+    "primary": "amd-20260203.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-10-29T20:08:53.000Z",
+    "accession": "0000050863-26-000188",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000188/",
+    "primary": "intc-20261029.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-08-12T20:05:07.000Z",
+    "accession": "0001193125-26-346806",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000119312526346806/",
+    "primary": "d117670d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-07-23T20:09:00.000Z",
+    "accession": "0000050863-26-000155",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000155/",
+    "primary": "intc-20260723.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-05-15T20:13:15.000Z",
+    "accession": "0000050863-26-000118",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000118/",
+    "primary": "intc-20260513.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-30T21:16:06.000Z",
+    "accession": "0001193125-26-197845",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000119312526197845/",
+    "primary": "d143782d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-24T20:15:20.000Z",
+    "accession": "0000050863-26-000083",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000083/",
+    "primary": "intc-20260424.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-23T20:07:02.000Z",
+    "accession": "0000050863-26-000077",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000077/",
+    "primary": "intc-20260423.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-08T20:05:34.000Z",
+    "accession": "0000050863-26-000072",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000072/",
+    "primary": "intc-20260408.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-03T16:50:37.000Z",
+    "accession": "0000050863-26-000069",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000069/",
+    "primary": "intc-20260330.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-03-03T21:06:00.000Z",
+    "accession": "0000050863-26-000044",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000044/",
+    "primary": "intc-20260227.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-10-21T20:19:17.000Z",
+    "accession": "0000051143-26-000093",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000093/",
+    "primary": "ibm-20261021.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-10-01T20:18:19.000Z",
+    "accession": "0000051143-26-000086",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000086/",
+    "primary": "ibm-20261001.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-08-14T20:05:21.000Z",
+    "accession": "0001104659-26-097089",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000110465926097089/",
+    "primary": "tm2623193d1_8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-07-22T20:10:24.000Z",
+    "accession": "0000051143-26-000077",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000077/",
+    "primary": "ibm-20260722.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-07-14T11:01:52.000Z",
+    "accession": "0000051143-26-000070",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/",
+    "primary": "ibm-20260714.htm",
+    "status": "processed",
+    "products": 2
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-06-23T20:18:27.000Z",
+    "accession": "0000051143-26-000061",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000061/",
+    "primary": "ibm-20260622.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-05-28T10:49:17.000Z",
+    "accession": "0000051143-26-000047",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000047/",
+    "primary": "ibm-20260528.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-05-01T20:18:17.000Z",
+    "accession": "0000051143-26-000043",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000043/",
+    "primary": "ibm-20260428.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-04-22T20:10:35.000Z",
+    "accession": "0000051143-26-000036",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000036/",
+    "primary": "ibm-20260422.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-03-03T21:19:31.000Z",
+    "accession": "0000051143-26-000015",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000015/",
+    "primary": "ibm-20260301.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-10-28T18:24:44.000Z",
+    "accession": "0001193125-26-435853",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526435853/",
+    "primary": "d75538d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-09-14T10:01:59.000Z",
+    "accession": "0001193125-26-389753",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389753/",
+    "primary": "d20034d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-09-10T20:16:50.000Z",
+    "accession": "0001193125-26-387905",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/",
+    "primary": "orcl-20260910.htm",
+    "status": "processed",
+    "products": 2
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-06-10T20:13:46.000Z",
+    "accession": "0001193125-26-265848",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526265848/",
+    "primary": "orcl-20260610.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-05-12T20:50:49.000Z",
+    "accession": "0001193125-26-219708",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526219708/",
+    "primary": "d76569d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-04-06T12:12:11.000Z",
+    "accession": "0001193125-26-142939",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526142939/",
+    "primary": "d132760d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-03-10T20:12:51.000Z",
+    "accession": "0001193125-26-100148",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526100148/",
+    "primary": "orcl-20260310.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-02-05T21:01:31.000Z",
+    "accession": "0001193125-26-039344",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526039344/",
+    "primary": "d63638d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-02-04T22:20:31.000Z",
+    "accession": "0001193125-26-037840",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526037840/",
+    "primary": "d23732d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-01-09T21:31:11.000Z",
+    "accession": "0001193125-26-009002",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526009002/",
+    "primary": "d34442d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-10-20T13:16:53.000Z",
+    "accession": "0001193125-26-425881",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526425881/",
+    "primary": "d516983d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-09-17T01:02:48.000Z",
+    "accession": "0001108524-26-000210",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000210/",
+    "primary": "crm-20260916.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-09-04T20:05:24.000Z",
+    "accession": "0001108524-26-000197",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000197/",
+    "primary": "crm-20260902.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-08-26T20:03:53.000Z",
+    "accession": "0001108524-26-000187",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000187/",
+    "primary": "crm-20260826.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-08-05T20:36:56.000Z",
+    "accession": "0001108524-26-000160",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000160/",
+    "primary": "crm-20260805.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-06-02T20:15:12.000Z",
+    "accession": "0001108524-26-000138",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000138/",
+    "primary": "crm-20260527.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-06-01T20:43:09.000Z",
+    "accession": "0001108524-26-000131",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000131/",
+    "primary": "crm-20260528.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-05-27T20:18:26.000Z",
+    "accession": "0001108524-26-000125",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000125/",
+    "primary": "crm-20260527.htm",
+    "status": "processed",
+    "products": 1
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-03-16T13:13:09.000Z",
+    "accession": "0001193125-26-107403",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526107403/",
+    "primary": "d887663d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-03-13T20:59:32.000Z",
+    "accession": "0001193125-26-106356",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526106356/",
+    "primary": "d114728d8k.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-09-10T20:06:14.000Z",
+    "accession": "0000796343-26-000147",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000147/",
+    "primary": "adbe-20260910.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-09-08T20:38:46.000Z",
+    "accession": "0000796343-26-000144",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000144/",
+    "primary": "adbe-20260902.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-07-17T20:14:16.000Z",
+    "accession": "0000796343-26-000120",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000120/",
+    "primary": "adbe-20260714.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-06-11T20:08:53.000Z",
+    "accession": "0000796343-26-000109",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000109/",
+    "primary": "adbe-20260608.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-04-21T20:07:57.000Z",
+    "accession": "0000796343-26-000101",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000101/",
+    "primary": "adbe-20260415.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-03-12T20:09:23.000Z",
+    "accession": "0000796343-26-000048",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000048/",
+    "primary": "adbe-20260309.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-01-27T22:04:38.000Z",
+    "accession": "0000796343-26-000019",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000019/",
+    "primary": "adbe-20260126.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-12-10T21:05:55.000Z",
+    "accession": "0000796343-25-000135",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/",
+    "primary": "adbe-20251210.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-09-11T20:06:22.000Z",
+    "accession": "0000796343-25-000102",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000102/",
+    "primary": "adbe-20250911.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-06-12T20:19:20.000Z",
+    "accession": "0000796343-25-000064",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000064/",
+    "primary": "adbe-20250612.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-10-09T20:08:49.000Z",
+    "accession": "0000858877-26-000156",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000156/",
+    "primary": "csco-20261007.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-08-12T20:07:06.000Z",
+    "accession": "0000858877-26-000106",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000106/",
+    "primary": "csco-20260812.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-05-13T20:06:53.000Z",
+    "accession": "0000858877-26-000075",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000075/",
+    "primary": "csco-20260513.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-05-01T20:05:06.000Z",
+    "accession": "0000858877-26-000057",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000057/",
+    "primary": "csco-20260427.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-04-06T20:29:18.000Z",
+    "accession": "0000858877-26-000048",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000048/",
+    "primary": "csco-20260331.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-02-11T21:07:20.000Z",
+    "accession": "0000858877-26-000006",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000006/",
+    "primary": "csco-20260211.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-12-17T21:42:08.000Z",
+    "accession": "0000858877-25-000199",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000199/",
+    "primary": "csco-20251216.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-11-12T21:15:30.000Z",
+    "accession": "0001193125-25-277624",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000119312525277624/",
+    "primary": "d484663d8k.htm",
+    "status": "error",
+    "error": "Product failed length or source-evidence validation; see audit"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-10-17T20:13:47.000Z",
+    "accession": "0000858877-25-000145",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000145/",
+    "primary": "csco-20251015.htm",
+    "status": "processed",
+    "products": 0
+  },
+  {
+    "company_name": "Mitesco, Inc.",
+    "stock_name": "MITI",
+    "filing_time": "2025-08-28T21:27:02Z",
+    "accession": "0001185185-25-001092",
+    "base": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/",
+    "primary": "miti8k082725.htm",
+    "status": "processed",
+    "products": 1
+  }
+]
