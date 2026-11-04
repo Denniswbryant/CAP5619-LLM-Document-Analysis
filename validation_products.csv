@@ -1,2 +1,30 @@
 ﻿company_name,stock_name,filing_time,new_product,product_description
-"Mitesco, Inc.",MITI,2025-08-28T21:27:02Z,Crypto Processing Services (CPS),"secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions"
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Spectrum™-6 switch systems,"Supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform, arriving across the world’s gigascale AI factories."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Vera,"The first CPU built for AI agents, with broad adoption planned across the world’s leading technology providers."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Groq 3 LPX,"The interactive AI inference accelerator, now in full production."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Vera BlueField™-4 STX,New security innovations delivering agentic AI storage processing with in-silicon security for AI factories.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA DSX™ platform,"Providing infrastructure builders a complete playbook to design, build and operate AI factories at scale."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA BioNeMo™ Agent Toolkit,Provides domain-specific tools and skills for the agentic life sciences era.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA DGX Station™ for Windows,The world’s most powerful deskside AI supercomputer for developing and running agents on Windows.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Alpamayo 2 Super,"The frontier open reasoning model for safe robotaxi and autonomous vehicle development, for commercial use."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Cosmos™ 3,The world’s first fully open frontier omnimodel for physical AI.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Isaac™ GR00T Reference Humanoid Robot,The first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Halos for Robotics,"The industry’s first full-stack safety system for physical AI, unifying AI compute and safety in a single comprehensive platform."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,Vera Rubin,A product being introduced in the third quarter.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,Super Intelligence Control Tower,"A platform that simplifies tech debt, limits token overload, and manages cybersecurity risk."
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,ServiceNow plugin for ChatGPT,A plugin for ChatGPT enabled by Action Fabric.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,AI Passport,A solution to verify first- and third-party AI agents’ scopes in real-time.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,ServiceNow Arc,A personal long-running AI agent governed and secured by the Super Intelligence Control Tower.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,Flow,A new AI-native service desk that deploys instantly and is built for any sized team or enterprise.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,ToolSmith,A new agentic developer environment that allows developers to quickly and securely vibe code enterprise AI tools.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,Autonomous Security,A security offering with a suite of six unified solutions to help enterprises prevent and remediate cyber risk.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,EmployeeWorks,A platform that allows employees to build AI agents with no code required.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Instinct™ MI450 Series GPUs,"Launched by AMD, these are GPU products that are part of the Instinct series."
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Helion reference architecture,"An open, flexible blueprint for building rack-scale agentic systems."
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD ROCm™ 10,A software platform that brings AI-native developer experiences to AMD platforms.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Ross™,An agentic tool for embedded system design that helps customers accelerate time to market.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Ryzen™ AI Halo platform,A platform powered by Ryzen AI Max PRO 400 Series processors for local model running.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,Threadripper Halo Station,A system powered by the AMD Threadripper 9955WX CPU and AMD Instinct MI350p GPU.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Helios rackscale solutions,"First AMD Helios rackscale solutions are being used by Anthropic, Meta, Microsoft, OpenAI, and Oracle Cloud Infrastructure."
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Threadripper Halo Station,Combines the AMD Threadripper 9955WX with Instinct-class graphics.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Versal AI Core XQRVC1902 space-grade adaptive SoCs,Began sampling in Q3 2026 for aerospace and defense applications.

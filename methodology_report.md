@@ -1,43 +1,51 @@
 # Extracting New Product Announcements from SEC Form 8 K Filings
 
-Dennis Bryant | CAP5619 | November 1, 2026
+Dennis Bryant | CAP5619 | Revised November 3, 2026
 
 https://github.com/Denniswbryant/CAP5619-LLM-Document-Analysis
 
-## Purpose and document selection
+## Purpose and dataset
 
-This project uses a locally hosted large language model to identify new product announcements in SEC Form 8-K filings and produce a five-column CSV. The run attempted 100 filings; 87 completed without a processing error, and 13 were recorded as errors. The reviewed output contains 3 product rows. These are descriptive results for a convenience sample, not an estimate of announcement frequency across public companies.
+This project uses a local large language model to extract named new products from SEC Form 8-K filings. The revised analysis processed 220 filings from 20 companies and produced 102 reviewed product records from 8 companies. The five CSV columns are company_name, stock_name, filing_time, new_product and product_description. Each description contains fewer than 180 characters; the longest is 114 characters.
 
-The sample includes 99 recent filings retrieved from the SEC submissions data for AAPL, MSFT, NVDA, AMD, INTC, IBM, ORCL, CRM, ADBE and CSCO: ten per company except nine for CSCO. One purposefully selected Mitesco filing is included as a known positive test. Filing dates range from 2025-06-12 to 2026-10-29. The explicit manifest fixes the analyzed documents, rather than relying on a changing search result. The Mitesco case must not be interpreted as a randomly discovered positive.
+The sample is a purposive selection of technology companies, not a random S&P 500 sample. Up to 15 recent 8-Ks per company were selected in round-robin order from SEC submissions JSON. The processed filings span 2025-04-24 to 2026-11-03. The exact selection and processed manifests are retained. Processing can continue beyond 100 documents to satisfy the rubric's separate requirement of at least 100 product entries. The candidate stopping target is 170 unique product names after at least 100 filings, followed by source review; additional filings are required if review leaves fewer than 100 supported records.
 
 ## Preprocessing and named entity recognition
 
-Python downloads the primary 8-K document and linked HTML or text EX-99 exhibits, including press releases. SEC requests carry a user-supplied identifying name and email, are throttled, and are cached. An HTML parser removes scripts, styles and hidden inline-XBRL sections. Text is divided into 8,000-character chunks with a 1,000-character overlap. A keyword screen selects chunks mentioning launches, introductions, new products or services, debuts or general availability. Screened-out chunks remain in the processing audit.
+Python downloads the primary filing and HTML/text EX-99 exhibits using an identifying SEC User-Agent, throttling and retries. Downloads are cached, and visible paragraph boundaries are preserved while scripts, styles and hidden inline-XBRL metadata are suppressed. Long paragraphs are split into passages of about 2,200 characters with a 150-character overlap. A keyword screen selects introduction, launch, release, availability and new-product context plus neighboring passages, forming batches of at most 16,000 characters.
 
-LLaMA performs prompted named entity recognition by returning ORGANIZATION and PRODUCT labels along with candidate product names, descriptions and source quotations. This is LLM-based NER, not a separately trained spaCy or transformer NER model. Company name, ticker and acceptance timestamp come from SEC metadata and are not guessed by the model. Multiple products create separate rows; a completed filing with no accepted announcement creates no product row.
+The LLM performs prompted named entity recognition with ORGANIZATION, PRODUCT and PERSON labels, then returns product names, factual descriptions, categories and source passage IDs in JSON. Company name, ticker and acceptance timestamp come from SEC metadata rather than model inference. Named product families, models and versions can form separate records when the source explicitly introduces them; ordinary existing-product mentions, financing, acquisitions, facilities and partnership-only statements do not qualify.
 
-## Extraction and verification
+## Model and evidence checks
 
-Python queries Ollama over its local HTTP API using llama3.1:8b, a quantized 8-billion-parameter model. JSON schemas constrain response types; temperature is zero and the initial seed is 42. A second prompt classifies each candidate as a current announcement, retrospective launch, existing product, financing or unclear content. Conservative rules reject debt identifiers, unsupported sales mentions and retrospective wording without an explicit current launch. Accepted names and quotations must occur in source text. Descriptions are limited to 179 characters; word-boundary shortening is logged when necessary.
+The final pipeline uses Ollama qwen3:14b locally: Qwen3 with 14.8 billion parameters and Q4_K_M quantization. Thinking is disabled; temperature is 0, the initial seed is 42, context is 12,288 tokens, and the output cap is 5,000 tokens. Responses use a JSON schema. A separate prompt checks candidate names, descriptions and release evidence using the same model. Unlike the first version, launches summarized in quarterly results qualify, as do named unveilings with future availability; vague development plans do not.
 
-## Results and validation
+Python copies evidence directly from cited passage IDs and checks normalized names against those passages. This avoids relying on model-generated verbatim quotations. Invalid candidates are logged individually instead of discarding every product in a filing. Overlong descriptions are shortened at a word boundary and logged. Filing checkpoints and inference caches support resuming an interrupted run.
 
-The unreviewed run produced 6 accepted candidate rows. Source review retained 3 rows in products.csv; the original raw_products.csv and audit.json preserve the model output. Error filings are recorded separately and are never counted as negative examples. Each reviewed output row retains the filing company, ticker, timestamp, product name and a concise description. A pipe-separated version is provided in products_pipe.txt.
+## Results and source review
 
-The real positive test is Mitesco accession 0001185185-25-001092, filed August 28, 2025. Its EX-99.1 press release announces Centcore Crypto Processing Services, a service for cryptocurrency processing, mining and blockchain hosting. The model extracted the named service and passed the evidence and length checks. The filing acceptance time, rather than the press-release date, is used in the CSV. This project treats newly launched operating services as products, while excluding financing instruments.
+The model generated 170 unique accepted candidates before source review. Review retained 102 records in products.csv. Raw results, copied evidence, source URLs, passage IDs and every review decision are provided separately. Global ticker/product normalization removes repeated names across filings; source review also addresses aliases and incomplete version names. The retained timestamp is the earliest observed filing in the analyzed sample, not necessarily the first public announcement date.
 
-Five synthetic verification checks passed: a current launch was accepted, while a retrospective launch, existing-product sales, a bond identifier and a management appointment were rejected. A source check was also conducted for all accepted rows and 10 sampled negative filings, with decisions recorded in manual_review.json. Source review was assisted by Codex. The synthetic checks and one deliberately selected positive case are development validation, not an independent accuracy benchmark; precision and recall are not claimed.
+220 filings completed without document-processing errors; 0 filings had errors or partial processing. Failures and candidate rejections remain visible in the logs. A completed filing with no qualifying product adds no placeholder row. The final CSV meets the rubric's 100-entry threshold through distinct supported products, not duplicate or empty rows.
+
+The original three-row output was inadequate for the rubric. Its restrictive definition rejected reporting-period launches, while quotation mismatches caused 13 filing failures. All 13 now complete successfully. The revision broadens the definition, copies source passages by ID and isolates candidate validation problems. LLaMA 3.1 8B sometimes shortened new model names to existing families. Qwen3 14B was selected after pilot comparisons showed more specific release names.
+
+## Validation and challenges
+
+Two deterministic checks verify hidden-metadata removal and trademark-insensitive grounding. Five synthetic scenarios test a reporting-quarter launch, a named future-availability unveiling, an existing-product sales mention, financing/appointments and a partnership-only statement. The revised model passed these scenarios. A real positive pilot used AMD, ServiceNow and NVIDIA filings, and final accepted candidates received Codex-assisted source review. These development checks are not an independent labeled benchmark; precision and recall are not claimed.
+
+The main challenges were distinguishing a launch from ordinary product use, retaining complete version names, handling typography and extracting concise descriptions. Source review rejects unsupported entries and records any name or description correction. The raw LLM output remains unchanged for comparison. A source quotation establishes what a filing says; it does not independently verify corporate marketing claims or future delivery.
 
 ## Limitations and reproducibility
 
-The initial pilot confused bonds and sales mentions with product announcements. Additional rules reduced these errors, but the same model performs both extraction and classification, so their mistakes can be correlated. Entity labeling still occasionally mistakes people or locations for organizations. Keyword screening, chunk boundaries and conservative historical-context rules can miss real announcements. Retrospective earnings summaries are deliberately excluded. PDF and image exhibits are unsupported; duplicates are removed within a filing, not across separate filings.
+The same model performs extraction and verification, so mistakes can be correlated. Keyword screening, passage boundaries and incomplete NER can miss announcements. Exact normalized-name deduplication cannot resolve every alias automatically. PDF/image exhibits are unsupported. Technology-company selection and stopping after enough candidate records can bias the dataset. AI assistance and support were used for implementation, debugging, source review and report preparation.
 
-The repository includes the Python implementation, exact filing manifest, raw and reviewed CSVs, source audit, error log, run metadata, positive test and review decisions. Run metadata records the model digest, script hash and generation settings. Replaying the manifest reproduces document selection, although model output can vary between runs or hardware. No paid model API is used. Assistant support was used for coding, debugging, source review and report preparation; the student should review the implementation and conclusions before submission.
+The repository contains the code, tests, raw and reviewed CSVs, evidence, manifests, run metadata and review decisions. The model digest, script hash and settings are recorded. Replaying the processed manifest fixes document selection, but output may vary across model builds or hardware. The GitHub URL appears above and on the revised resume; the repository is private, so instructor access is required.
 
-## Sources and project access
+## Sources
 
-SEC EDGAR API documentation: https://www.sec.gov/search-filings/edgar-application-programming-interfaces
-Ollama chat API: https://docs.ollama.com/api/chat
-Positive exhibit: https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/mitiex99-1.htm
+SEC EDGAR APIs: https://www.sec.gov/search-filings/edgar-application-programming-interfaces
 
-The repository URL appears on page one and near the top of a separate revised resume copy. The repository is private, so the instructor must be granted access. The student should confirm whether the instructor requires a fuller academic CV rather than a resume.
+Ollama structured outputs: https://docs.ollama.com/capabilities/structured-outputs
+
+Qwen3 model: https://ollama.com/library/qwen3:14b

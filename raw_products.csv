@@ -1,7 +1,171 @@
 ﻿company_name,stock_name,filing_time,new_product,product_description
-INTERNATIONAL BUSINESS MACHINES CORP,IBM,2026-07-14T11:01:52.000Z,Lightwell,a trusted enterprise clearinghouse to address open source software vulnerabilities
-INTERNATIONAL BUSINESS MACHINES CORP,IBM,2026-07-14T11:01:52.000Z,Anderon,the world’s first pure-play quantum wafer foundry
-ORACLE CORP,ORCL,2026-09-10T20:16:50.000Z,Oracle AI Data Platform,Automatically generates Enterprise Ontology
-ORACLE CORP,ORCL,2026-09-10T20:16:50.000Z,100% Agentic AI Health Care Management System,All-new 100% Agentic system made up of a collection of AI agents for every medical specialty
-"Salesforce, Inc.",CRM,2026-05-27T20:18:26.000Z,Slack Model Context Protocol,surpassed 1 million active users
-"Mitesco, Inc.",MITI,2025-08-28T21:27:02Z,Crypto Processing Services (CPS),"secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions"
+"Arista Networks, Inc.",ANET,2025-05-06T20:07:47.000Z,Cluster Load Balancing (CLB),"Maximizes AI workload performance with consistent, low-latency network flows."
+"Arista Networks, Inc.",ANET,2025-05-06T20:07:47.000Z,Arista CloudVision® Universal Network Observability™ (CV UNO™),Offers AI job-centric observability for enhanced troubleshooting and rapid issue inference.
+"Arista Networks, Inc.",ANET,2025-08-05T20:09:13.000Z,AI-driven enterprise products,"Expanded set of switching, Wi-Fi 7 access point, and WAN capabilities."
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,iPhone 17,New iPhone model launched in September 2025 as part of the best iPhone lineup ever.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,iPhone 17 Pro,New iPhone model launched in September 2025 as part of the best iPhone lineup ever.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,iPhone Air,New iPhone model launched in September 2025 as part of the best iPhone lineup ever.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,AirPods Pro 3,New version of AirPods Pro launched in September 2025.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,Apple Watch lineup,All-new Apple Watch lineup launched in September 2025.
+"Arista Networks, Inc.",ANET,2025-11-04T21:08:44.000Z,Ethernet for Scale-Up Networks (ESUN),"An open OCP workstream committed to the goal of open standards-based solutions for scale-up, based on Ethernet, and open to all."
+"Arista Networks, Inc.",ANET,2025-11-04T21:08:44.000Z,Arista CloudVision AI,"Delivers end-to-end visibility, intelligence, and security, from the physical network and systems to job-level performance."
+"ServiceNow, Inc.",NOW,2026-01-28T21:11:25.000Z,Now Assist,AI-powered assistance tool for enterprise workflows
+"ServiceNow, Inc.",NOW,2026-01-28T21:11:25.000Z,Workflow Data Fabric,AI platform component for managing workflow data
+"ServiceNow, Inc.",NOW,2026-01-28T21:11:25.000Z,Raptor,AI-related product or service
+"ServiceNow, Inc.",NOW,2026-01-28T21:11:25.000Z,CPQ,AI-related product or service
+"ServiceNow, Inc.",NOW,2026-01-28T21:11:25.000Z,Build Agent,AI-powered tool for creating enterprise-ready applications
+"ServiceNow, Inc.",NOW,2026-01-28T21:11:25.000Z,Now Next AI,AI deployment model for enterprise transformation
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD Instinct MI440X GPU,GPU for enterprise AI.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD Ryzen AI Halo developer platform,AMD Ryzen AI Halo developer platform.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD Ryzen AI Embedded Processor portfolio,"Designed to power AI-driven applications across automotive, industrial automation and physical AI."
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD Versal™ RF Series,Adaptive SoCs for extreme space environments.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD EPYC Embedded 2005 Series processors,"Delivering enhanced performance, efficiency and high-speed connectivity for networking, storage and industrial applications."
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,Ryzen 7 9850X3D,"The fastest gaming processor, powered by the “Zen 5” architecture and AMD 3D V-Cache™ technology."
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD FSR™ Redstone,"A suite of new machine-learning based features delivering more immersive visuals for AMD Radeon graphics cards, including AMD FSR Upscaling, Frame Generation, Ray..."
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD Instinct MI440X,"A GPU for enterprise AI, unveiled at CES."
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD Instinct MI430X,"A GPU for enterprise AI, used in HPE Herder supercomputer."
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD Helios,"A rack-scale platform for yotta-scale AI, previewed at CES."
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,Ryzen AI 400,A new Ryzen AI platform for PC performance and gaming.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,Ryzen AI Max+ 392,A new Ryzen AI platform for PC performance and gaming.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,Ryzen AI Max+ 388,A new Ryzen AI platform for PC performance and gaming.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,FSR Redstone,An AI-powered upscaling technology for AMD Radeon graphics cards.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,Ryzen AI Halo Platform,An AI developer platform with compact footprint for local model execution.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-03T21:16:18.000Z,AMD EPYC Embedded 2005 Series,"A processor for networking, security, and industrial-edge applications."
+"Arista Networks, Inc.",ANET,2026-02-12T21:07:57.000Z,R4 series platforms,"R4 series platforms for AI, data center, and routed backbone deployment deliver high performance, low AI job completion times, low power consumption, and integrated security..."
+"Arista Networks, Inc.",ANET,2026-02-12T21:07:57.000Z,Cognitive Campus Switches,"Arista’s new ruggedized platforms bring the power, reliability, and operational simplicity of EOS to demanding industrial or outdoor environments."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Rubin platform,"Comprising six new chips to deliver up to a 10x reduction in inference token cost, compared with the NVIDIA Blackwell platform."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Inference Context Memory Storage Platform,A new class of AI-native storage infrastructure for the next frontier of AI.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Nemotron™ 3 family of open models,"Data and libraries designed to power transparent, efficient and specialized agentic AI development across industries."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Earth-2 family of open models,"The world’s first fully open, accelerated set of models and tools for AI weather."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA DLSS 4.5,Delivering major AI-powered advances in graphics quality.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA G-SYNC® Pulsar,Extending the ultimate gaming display platform with new levels of motion clarity in esports.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA RTX PRO™ 5000 72GB Blackwell GPU,To power larger models and agentic workflows.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Alpamayo family of open AI models,"Simulation tools and datasets designed to accelerate the next era of safe, reasoning-based autonomous vehicle (AV) development."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Cosmos™ and NVIDIA Isaac™ GR00T open models,Frameworks and AI infrastructure for physical AI.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,Blackwell,"A product driving Gaming revenue growth, with supply constraints expected to be a headwind in the first quarter of fiscal 2027 and beyond."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVLink™ compute fabric,"A compute fabric introduced and ramped for GB200 and GB300 systems, contributing to Networking revenue growth."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,GB200,"A system for which NVLink™ compute fabric was introduced and ramped, contributing to Networking revenue growth."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,GB300,"A system for which NVLink™ compute fabric was introduced and ramped, contributing to Networking revenue growth."
+Hewlett Packard Enterprise Co,HPE,2026-03-09T20:08:13.000Z,Cloud & AI,"A new financial segment consolidating HPE’s server, storage, and financial services businesses, introduced for FY26."
+"ServiceNow, Inc.",NOW,2026-04-22T20:49:29.000Z,Context Engine,Organizational intelligence that grounds every AI decision in live enterprise context.
+"ServiceNow, Inc.",NOW,2026-04-22T20:49:29.000Z,Build Agent Skills,Developer tools that allow building from any tool they already use and deploying directly to ServiceNow.
+"ServiceNow, Inc.",NOW,2026-04-22T20:49:29.000Z,Autonomous Workforce,A new class of AI specialists that execute enterprise jobs end-to-end with built-in governance and human oversight.
+"ServiceNow, Inc.",NOW,2026-04-22T20:49:29.000Z,Level 1 Service Desk AI Specialist,An AI specialist that autonomously diagnoses and resolves common IT support requests.
+"ServiceNow, Inc.",NOW,2026-04-22T20:49:29.000Z,ServiceNow EmployeeWorks,A conversational front door for the enterprise that connects intent to governed action across any system.
+"ServiceNow, Inc.",NOW,2026-04-22T20:49:29.000Z,Healthcare Operations,A new solution that embeds a shared operational system of record directly into the electronic medical record system.
+"ServiceNow, Inc.",NOW,2026-04-22T20:49:29.000Z,Industrial Connected Workforce,"A solution that connects fragmented quality, warranty, orders, and quoting systems in a single operational view."
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel® Xeon® 600 processors,Processors for workstation
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel® Core® Ultra 200HX Plus processors,Processors for desktop and mobile
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel® Core™ Series 2 processors,Processors for health and life sciences edge computing
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel® Core™ Ultra Series 3 processors,Processors with Intel vPro®
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel® Core™ Series 3 processors,"Processors bringing Intel 18A and the latest IP, modern features, and all-day battery life to the mainstream for the first time"
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel® Xeon® 6 processors,Processors powering C4 and N4 instances
+Apple Inc.,AAPL,2026-04-30T20:30:41.000Z,iPhone 17e,New iPhone model introduced in the March quarter.
+Apple Inc.,AAPL,2026-04-30T20:30:41.000Z,M4-powered iPad Air,New iPad Air model with M4 chip introduced in the March quarter.
+Apple Inc.,AAPL,2026-04-30T20:30:41.000Z,MacBook Neo,New MacBook model launched in the March quarter.
+"Arista Networks, Inc.",ANET,2026-05-05T20:06:48.000Z,AI Spines,"A universal AI spine powered by the 7800 to deliver massive scale, predictable performance, and high-speed interface support."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,AMD Instinct MI450,"A custom GPU for AI workloads, with a 1-GW deployment planned by Meta."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,6th Gen AMD EPYC CPUs,"Upcoming CPUs codenamed 'Venice' and 'Verano', with Meta as a lead customer."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,Ryzen 9950X3D2 Dual Edition,A processor with dual stacks of AMD 3D V-Cache™ technology for creative and developer workloads.
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,Ryzen AI Embedded P100 Series,"Scalable, power-efficient AI processors for industrial and edge applications."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,Kintex™ UltraScale+™ Gen 2,"Mid-range FPGAs with advanced memory bandwidth and I/O performance for industrial, imaging, and broadcast applications."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,AMD Ryzen AI PRO 400 Series processors,Enabling next-generation enterprise desktop PCs that deliver Copilot+ experiences.
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,Ryzen 9950X3D2 Dual Edition processors,Delivering enhanced performance for creative and developer workloads with dual stacks of 3D V-Cache.
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,Ryzen AI Embedded P100 Series processors,"Delivering scalable, power-efficient AI compute for industrial and edge applications."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,Kintex UltraScale+ Gen 2 family of mid-range FPGAs,"Delivering advanced memory bandwidth and I/O performance for industrial, imaging and broadcast applications."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T20:16:06.000Z,EPYC 8005 Server CPUs,Delivering leadership performance per-watt-per-dollar for telecommunications and edge environments.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA NemoClaw™,A product for the OpenClaw agent platform.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA OpenShell™,A platform with privacy and security controls for autonomous AI agents.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Agent Toolkit,An open source platform for building autonomous enterprise AI agents.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Nemotron™,A new open AI model developed by NVIDIA.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA BioNeMo™,A new open AI model developed by NVIDIA.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Ising,A new open AI model developed by NVIDIA.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Nemotron Coalition,A new initiative related to open AI model development.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Vera Rubin-powered A5X instances,New instances developed in collaboration with Google Cloud.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA NVLink Fusion™,A collaboration with Marvell for silicon photonics technology.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA DLSS 4.5 Dynamic Multi Frame Generation,A new version of DLSS with dynamic multi-frame generation.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,DLSS 5,A next-generation DLSS 3D-guided neural rendering model.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Alpamayo 1.5,An open model for autonomous driving systems.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Omniverse NuRec,Technologies that enable autonomous driving systems at scale.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Halos OS,A unified safety architecture for AI-driven vehicles.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Cosmos™,A new product announced by NVIDIA.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Isaac™ GR00T N,A new Isaac simulation model.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA IGX Thor™,A product now available in general availability.
+"Salesforce, Inc.",CRM,2026-05-27T20:18:26.000Z,Agentforce,"AI agent platform for executing discrete tasks across the Salesforce platform, including resolving customer cases and triggering workflows."
+"Salesforce, Inc.",CRM,2026-05-27T20:18:26.000Z,"Slack Model Context Protocol (""MCP"")",Slack AI model protocol with over 1 million active users within six weeks of launch.
+ORACLE CORP,ORCL,2026-06-10T20:13:46.000Z,Oracle Multicloud AI Database,"A database solution that integrates AI capabilities, growing rapidly in adoption."
+ORACLE CORP,ORCL,2026-06-10T20:13:46.000Z,Oracle’s new AI clinical trial system,A system designed to enable regulators to rapidly review and approve clinical trial test results.
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2026-07-14T11:01:52.000Z,Lightwell,"A $5 billion commitment backed by new frontier AI capabilities and a global force of more than 20,000 engineers creating a trusted enterprise clearinghouse to address open..."
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2026-07-14T11:01:52.000Z,Anderon,The world’s first pure-play quantum wafer foundry supported by $1 billion in CHIPS incentives provided by the DoC and a $1 billion cash contribution by IBM.
+"ServiceNow, Inc.",NOW,2026-07-22T20:11:27.000Z,ServiceNow Otto,"A new unified AI experience that combines the intelligence of Now Assist, Moveworks, and AI Experience to complete work across every department and system."
+"ServiceNow, Inc.",NOW,2026-07-22T20:11:27.000Z,AI Control Tower,"Expanded with new discovery, observation, governance, security, and measurement capabilities that give enterprises control over every AI system, agent, and workflow..."
+"ServiceNow, Inc.",NOW,2026-07-22T20:11:27.000Z,Autonomous Workforce - AI specialists,"AI specialists launched for IT, customer relationship management, employee services, and security and risk."
+"ServiceNow, Inc.",NOW,2026-07-22T20:11:27.000Z,Autonomous Data Analytics,"Launched to give enterprises the live, governed data that autonomous AI needs to act, mapping people, assets, and policies in real time and enabling plain-language queries..."
+"ServiceNow, Inc.",NOW,2026-07-22T20:11:27.000Z,ServiceNow Action Fabric,"Enabling ServiceNow and third-party AI to securely take action through ServiceNow workflows. Anthropic became the first design partner, connecting Claude directly to..."
+"ServiceNow, Inc.",NOW,2026-07-22T20:11:27.000Z,Project Arc,"An enterprise autonomous desktop agent secured by NVIDIA OpenShell, introduced as part of the partnership with NVIDIA to extend agentic AI governance from desktops to data..."
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,Xeon® 6+,"Next-generation data center CPU, Intel's first server class product on Intel 18A for sustained performance under real-world power constraints."
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,Intel® Arc™ G-Series processors,New family of products designed for next-generation handheld gaming systems.
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,Ethernet® E835 portfolio,"Scaling from 10GbE to 200GbE across cloud, AI, enterprise, edge and telco infrastructure."
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,OpenVINO™ Physical AI,"Open-source framework designed to help developers deploy robotics models across vision, language, reasoning and motion-control workloads."
+Apple Inc.,AAPL,2026-07-30T20:30:28.000Z,Siri AI,All-new Siri AI introduced at WWDC26 alongside Apple’s latest software innovations and child safety features.
+"Arista Networks, Inc.",ANET,2026-08-04T20:06:44.000Z,7060XE7 Series,A next-generation 1.6-terabit portfolio for AI fabrics delivering up to 100 Tbps of system bandwidth and supporting Linear Pluggable Optics.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Helios™ rackscale solution,"The world’s most powerful AI server rack, delivering leadership inference tokens per dollar and being deployed by leading AI labs and cloud providers."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Instinct MI400 Series GPU family,"Includes MI455X and MI430X, bringing leadership compute, memory capacity and bandwidth for large-scale AI training and inference, and HPC and sovereign AI workloads."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,MI455X,"Part of the AMD Instinct MI400 Series GPU family, bringing leadership compute, memory capacity and bandwidth for large-scale AI training and inference."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,MI430X,"Part of the AMD Instinct MI400 Series GPU family, the most advanced accelerator for HPC and sovereign AI workloads."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,6th Gen AMD EPYC server CPUs,"Built to deliver leadership performance across the full range of agentic AI, general-purpose and enterprise workloads."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,ROCm.ai,"An AI-native developer experience designed to help developers build, deploy and optimize faster across AMD platforms."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Ryzen PRO 9000 Series processor,"Expanded the AMD Ryzen PRO 9000 Series processor lineup, bringing AMD 3D V-Cache™ technology to enterprise workstations for the first time."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Ryzen 7700X3D processors,"Launched AMD Ryzen 7700X3D processors and extended support for Socket AM5 platforms through 2029, giving gamers more performance and longevity."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Ryzen™ AI Embedded X100 Series processors,"A new family of embedded x86 processors integrating CPU, GPU and AI acceleration to power robotics, industrial automation and intelligent embedded systems."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Kria™ AI solutions,Includes AMD Kria AI system-on-modules and the AMD Kria AI Robotics Developer Platform to accelerate the development of next-generation physical AI systems.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Kria AI system-on-modules,"Part of AMD Kria™ AI solutions, used to accelerate the development of next-generation physical AI systems."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Kria AI Robotics Developer Platform,"Part of AMD Kria™ AI solutions, used to accelerate the development of next-generation physical AI systems."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,Versal™ Premium Series Gen 2 Memory on Package adaptive SoCs,"Launched to speed data transfer for test and measurement, professional video editing, communications and aerospace and defense workloads."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Instinct MI450 Series GPUs,Launched broad data center portfolio including AMD Instinct MI450 Series GPUs.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,6th Gen EPYC CPUs,Launched broad data center portfolio including 6th Gen EPYC CPUs.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,Pensando Salina and Vulcano networking,Launched broad data center portfolio including Pensando Salina and Vulcano networking.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,AMD Instinct MI350P GPUs,"Launched AMD Instinct MI350P GPUs, bringing seamless AI acceleration to existing infrastructure with leadership token economics."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T20:16:24.000Z,Ryzen AI Halo systems,"Released Ryzen AI Halo systems, bringing leadership local AI performance and AMD ROCm open software to more developers."
+"Salesforce, Inc.",CRM,2026-08-26T20:03:53.000Z,Slackbot,AI offering integrated into Agentforce ARR beginning in Q2 FY27
+"Salesforce, Inc.",CRM,2026-08-26T20:03:53.000Z,Headless 360,AI offering integrated into Agentforce ARR beginning in Q2 FY27
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Spectrum™-6 switch systems,"Supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform, arriving across the world’s gigascale AI factories."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Vera,"The first CPU built for AI agents, with broad adoption planned across the world’s leading technology providers."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Groq 3 LPX,"The interactive AI inference accelerator, now in full production."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Vera BlueField™-4 STX,New security innovations delivering agentic AI storage processing with in-silicon security for AI factories.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA DSX™ platform,"Providing infrastructure builders a complete playbook to design, build and operate AI factories at scale."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA BioNeMo™ Agent Toolkit,Provides domain-specific tools and skills for the agentic life sciences era.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA DGX Station™ for Windows,The world’s most powerful deskside AI supercomputer for developing and running agents on Windows.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Alpamayo 2 Super,"The frontier open reasoning model for safe robotaxi and autonomous vehicle development, for commercial use."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Cosmos™ 3,The world’s first fully open frontier omnimodel for physical AI.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Isaac™ GR00T Reference Humanoid Robot,The first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform.
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,NVIDIA Halos for Robotics,"The industry’s first full-stack safety system for physical AI, unifying AI compute and safety in a single comprehensive platform."
+NVIDIA CORP,NVDA,2026-08-26T20:21:19.000Z,Vera Rubin,A product being introduced in the third quarter.
+ORACLE CORP,ORCL,2026-09-10T20:16:50.000Z,Oracle AI Data Platform,"Automatically generates enterprise ontology to define core concepts, relationships, and rules of the business for AI reasoning on private data."
+Hewlett Packard Enterprise Co,HPE,2026-09-30T11:49:26.000Z,AMD Helios™ AI Rack by HPE,A new system featuring purpose-built HPE Networking hardware and software.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,Super Intelligence Control Tower,"A platform that simplifies tech debt, limits token overload, and manages cybersecurity risk."
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,ServiceNow plugin for ChatGPT,A plugin for ChatGPT enabled by Action Fabric.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,AI Passport,A solution to verify first- and third-party AI agents’ scopes in real-time.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,ServiceNow Arc,A personal long-running AI agent governed and secured by the Super Intelligence Control Tower.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,Flow,A new AI-native service desk that deploys instantly and is built for any sized team or enterprise.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,ToolSmith,A new agentic developer environment that allows developers to quickly and securely vibe code enterprise AI tools.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,Autonomous Security,A security offering with a suite of six unified solutions to help enterprises prevent and remediate cyber risk.
+"ServiceNow, Inc.",NOW,2026-10-28T20:14:14.000Z,EmployeeWorks,A platform that allows employees to build AI agents with no code required.
+INTEL CORP,INTC,2026-10-29T20:08:53.000Z,Intel GPU D-series,"A new Intel GPU series introduced at OCP Global Summit 2026, previously code-named Crescent Island."
+INTEL CORP,INTC,2026-10-29T20:08:53.000Z,Intel® Core™ Series 3,"A new Intel Core series for intelligent client and edge computing, showcased at Hot Chips 2026."
+INTEL CORP,INTC,2026-10-29T20:08:53.000Z,Diamond Rapids,"Next-generation Intel Xeon server processor code-named Diamond Rapids, planned for OCI X14 offerings."
+INTEL CORP,INTC,2026-10-29T20:08:53.000Z,Intel 14A 0.9 process design kit (PDK),"A new process design kit released in October, part of Intel's 14A technology."
+Apple Inc.,AAPL,2026-11-02T21:30:23.000Z,iPhone Duo,The most transformational iPhone since the original.
+Apple Inc.,AAPL,2026-11-02T21:30:23.000Z,iPhone 18 Pro,Our most powerful iPhones yet.
+Apple Inc.,AAPL,2026-11-02T21:30:23.000Z,iPhone 18 Pro Max,Our most powerful iPhones yet.
+"Arista Networks, Inc.",ANET,2026-11-03T21:10:17.000Z,open Ethernet rack-scale architectures for scale-up and scale-out AI fabrics,"A new liquid-cooled portfolio leveraging Ethernet for Scale-Up Networks (ESUN) and introducing the Etherlink™ SU-144 architecture, supporting up to 144 accelerators per rack..."
+"Arista Networks, Inc.",ANET,2026-11-03T21:10:17.000Z,Etherlink™ SU-144,"An architecture supporting up to 144 accelerators per rack in a single hop and scaling up to 1,024 XPUs via cross-rack topologies."
+"Arista Networks, Inc.",ANET,2026-11-03T21:10:17.000Z,Arista 7800 AI Spine,A flagship product used in scale-across networking strategy for distributed AI fabrics.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Helion reference architecture,"An open, flexible blueprint for building rack-scale agentic systems."
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD ROCm™ 10,A software platform that brings AI-native developer experiences to AMD platforms.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Ross™,An agentic tool for embedded system design that helps customers accelerate time to market.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Ryzen™ AI Halo platform,A platform powered by Ryzen AI Max PRO 400 Series processors for local model running.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,Threadripper Halo Station,A system powered by the AMD Threadripper 9955WX CPU and AMD Instinct MI350p GPU.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Helios rackscale solutions,"First AMD Helios rackscale solutions are being used by Anthropic, Meta, Microsoft, OpenAI, and Oracle Cloud Infrastructure."
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Threadripper Halo Station,Combines the AMD Threadripper 9955WX with Instinct-class graphics.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T21:16:27.000Z,AMD Versal AI Core XQRVC1902 space-grade adaptive SoCs,Began sampling in Q3 2026 for aerospace and defense applications.

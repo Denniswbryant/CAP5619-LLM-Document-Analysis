@@ -1,59 +1,615 @@
 [
   {
-    "accession": "0001185185-25-001092",
-    "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/miti8k082725.htm",
-    "chunk": 0,
-    "screened_out": true,
-    "text_sha256": "734b260d576279a94463c311973653a3e94c5f251b80327cad751b5829ccb676"
-  },
-  {
-    "accession": "0001185185-25-001092",
-    "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/miti8k082725.htm",
-    "chunk": 1,
-    "screened_out": true,
-    "text_sha256": "3c6e294ac2199228712a061ae8cf05c9ca0c27d449a783b0da7c9bee8c830495"
-  },
-  {
-    "accession": "0001185185-25-001092",
-    "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/mitiex99-1.htm",
-    "chunk": 0,
-    "model": "llama3.1:8b",
-    "response": {
-      "entities": [
-        {
-          "text": "Mitesco, Inc.",
-          "label": "ORGANIZATION"
-        },
-        {
-          "text": "Centcore",
-          "label": "ORGANIZATION"
-        },
-        {
-          "text": "Brian Valania",
-          "label": "ORGANIZATION"
-        }
-      ],
-      "products": [
-        {
-          "new_product": "Crypto Processing Services (CPS)",
-          "product_description": "secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions",
-          "evidence": "This new offering enables businesses and individual operators to leverage Centcore\u2019s secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions."
-        }
-      ]
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA Spectrum™-6 switch systems",
+      "product_description": "Supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform, arriving across the world’s gigascale AI factories."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0032"
+    ],
+    "evidence": "•Revealed that NVIDIA Spectrum™-6 switch systems — supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform — are arriving across the world’s gigascale AI factories.",
+    "kind": "new_product",
+    "verification": {
+      "id": 0,
+      "accept": true,
+      "reason": "The evidence explicitly introduces the 'NVIDIA Spectrum™-6 switch systems' as a new product, supporting both pluggable and co-packaged optics as part of the NVIDIA Vera Rubin platform."
     }
   },
   {
-    "accession": "0001185185-25-001092",
-    "url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/mitiex99-1.htm",
-    "chunk": 0,
-    "candidate": {
-      "new_product": "Crypto Processing Services (CPS)",
-      "product_description": "secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions",
-      "evidence": "This new offering enables businesses and individual operators to leverage Centcore\u2019s secure, compliant, and high-capacity infrastructure for cryptocurrency transaction processing, mining, and blockchain hosting solutions."
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA Vera",
+      "product_description": "The first CPU built for AI agents, with broad adoption planned across the world’s leading technology providers."
     },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0033"
+    ],
+    "evidence": "•Unveiled NVIDIA Vera, the first CPU built for AI agents, with broad adoption planned across the world’s leading technology providers.",
+    "kind": "new_product",
     "verification": {
-      "category": "CURRENT_PRODUCT_ANNOUNCEMENT",
-      "reason": "The document explicitly announces the launch of a named operating product or service, Crypto Processing Services (CPS), with a clear product description and evidence of its introduction."
+      "id": 1,
+      "accept": true,
+      "reason": "The evidence explicitly unveils 'NVIDIA Vera' as a new product, described as the first CPU built for AI agents."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA Groq 3 LPX",
+      "product_description": "The interactive AI inference accelerator, now in full production."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0034"
+    ],
+    "evidence": "•Announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production.",
+    "kind": "new_product",
+    "verification": {
+      "id": 2,
+      "accept": true,
+      "reason": "The evidence explicitly announces that 'NVIDIA Groq 3 LPX' is now in full production, confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA Vera BlueField™-4 STX",
+      "product_description": "New security innovations delivering agentic AI storage processing with in-silicon security for AI factories."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0035"
+    ],
+    "evidence": "•Introduced new security innovations for NVIDIA Vera BlueField™-4 STX, delivering agentic AI storage processing with in-silicon security for AI factories.",
+    "kind": "new_product",
+    "verification": {
+      "id": 3,
+      "accept": true,
+      "reason": "The evidence explicitly introduces new security innovations for 'NVIDIA Vera BlueField™-4 STX', confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA DSX™ platform",
+      "product_description": "Providing infrastructure builders a complete playbook to design, build and operate AI factories at scale."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0036"
+    ],
+    "evidence": "•Launched the NVIDIA DSX™ platform, providing infrastructure builders a complete playbook to design, build and operate AI factories at scale.",
+    "kind": "new_product",
+    "verification": {
+      "id": 4,
+      "accept": true,
+      "reason": "The evidence explicitly launches the 'NVIDIA DSX™ platform', confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA BioNeMo™ Agent Toolkit",
+      "product_description": "Provides domain-specific tools and skills for the agentic life sciences era."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0043"
+    ],
+    "evidence": "•Launched NVIDIA BioNeMo™ Agent Toolkit, which provides domain-specific tools and skills for the agentic life sciences era.",
+    "kind": "new_product",
+    "verification": {
+      "id": 6,
+      "accept": true,
+      "reason": "The evidence explicitly launches the 'NVIDIA BioNeMo™ Agent Toolkit', confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA DGX Station™ for Windows",
+      "product_description": "The world’s most powerful deskside AI supercomputer for developing and running agents on Windows."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0053"
+    ],
+    "evidence": "•Announced NVIDIA DGX Station™ for Windows, the world’s most powerful deskside AI supercomputer for developing and running agents on Windows.",
+    "kind": "new_product",
+    "verification": {
+      "id": 7,
+      "accept": true,
+      "reason": "The evidence explicitly announces the 'NVIDIA DGX Station™ for Windows', confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA Alpamayo 2 Super",
+      "product_description": "The frontier open reasoning model for safe robotaxi and autonomous vehicle development, for commercial use."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0056"
+    ],
+    "evidence": "•Introduced NVIDIA Alpamayo 2 Super, the frontier open reasoning model for safe robotaxi and autonomous vehicle development, for commercial use.",
+    "kind": "new_product",
+    "verification": {
+      "id": 8,
+      "accept": true,
+      "reason": "The evidence explicitly introduces 'NVIDIA Alpamayo 2 Super', confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA Cosmos™ 3",
+      "product_description": "The world’s first fully open frontier omnimodel for physical AI."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0057"
+    ],
+    "evidence": "•Launched NVIDIA Cosmos™ 3, the world’s first fully open frontier omnimodel for physical AI.",
+    "kind": "new_product",
+    "verification": {
+      "id": 9,
+      "accept": true,
+      "reason": "The evidence explicitly launches 'NVIDIA Cosmos™ 3', confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA Isaac™ GR00T Reference Humanoid Robot",
+      "product_description": "The first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0058"
+    ],
+    "evidence": "•Announced the NVIDIA Isaac™ GR00T Reference Humanoid Robot, the first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform.",
+    "kind": "new_product",
+    "verification": {
+      "id": 10,
+      "accept": true,
+      "reason": "The evidence explicitly announces the 'NVIDIA Isaac™ GR00T Reference Humanoid Robot', confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "NVIDIA Halos for Robotics",
+      "product_description": "The industry’s first full-stack safety system for physical AI, unifying AI compute and safety in a single comprehensive platform."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+    "source_ids": [
+      "P0059"
+    ],
+    "evidence": "•Announced NVIDIA Halos for Robotics, the industry’s first full-stack safety system for physical AI, unifying AI compute and safety in a single comprehensive platform.",
+    "kind": "new_product",
+    "verification": {
+      "id": 11,
+      "accept": true,
+      "reason": "The evidence explicitly announces 'NVIDIA Halos for Robotics', confirming it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "NVIDIA CORP",
+      "stock_name": "NVDA",
+      "filing_time": "2026-08-26T20:21:19.000Z",
+      "new_product": "Vera Rubin",
+      "product_description": "A product being introduced in the third quarter."
+    },
+    "accession": "0001045810-26-000073",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27cfocommentary.htm",
+    "source_ids": [
+      "P0074"
+    ],
+    "evidence": "Inventory was $31.6 billion, up from $25.8 billion sequentially, as we prepare for the introduction of Vera Rubin in the third quarter.",
+    "kind": "new_product",
+    "verification": {
+      "id": 0,
+      "accept": true,
+      "reason": "The source explicitly mentions the introduction of 'Vera Rubin' in the third quarter, qualifying it as a new product."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ServiceNow, Inc.",
+      "stock_name": "NOW",
+      "filing_time": "2026-10-28T20:14:14.000Z",
+      "new_product": "Super Intelligence Control Tower",
+      "product_description": "A platform that simplifies tech debt, limits token overload, and manages cybersecurity risk."
+    },
+    "accession": "0001373715-26-000092",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm",
+    "source_ids": [
+      "P0009",
+      "P0015",
+      "P0019"
+    ],
+    "evidence": "“This was more than another beat-and-raise quarter for ServiceNow, this was the inflection point for ServiceNow as the Super Intelligence Control Tower,” said ServiceNow Chairman and CEO Bill McDermott. “Our customers have validated our strategic relevance as the single harness for enterprise intelligence and security. The Control Tower is the elixir that simplifies tech debt, limits token overload and manages unprecedented cybersecurity risk. That’s why AI adoption is accelerating, surging our hybrid business model to $30 billion in RPO, growing 23 percent. What other company at the forefront of the agentic enterprise has no capital or compute constraints? This is a one-of-one, rule of 571 growth company firing on all cylinders.” •Today, ServiceNow announced an expanded partnership with OpenAI to help enterprises move seamlessly from AI reasoning to governed action. The partnership expansion starts with a new ServiceNow plugin for ChatGPT, enabled by Action Fabric. The companies aim to develop Security and Risk solutions powered by OpenAI cyber models, a Codex integration in AI Workflow Factory, and voice-driven governance and risk assessment for ServiceNow’s Super Intelligence Control Tower. •At NVIDIA GTC Berlin, ServiceNow announced the industry’s first personal enterprise agent and policy enforcement with NVIDIA, extending AI governance across software and silicon. ServiceNow Arc, a personal long-running AI agent that can take on everyday work, is now governed and secured by the ServiceNow Super Intelligence Control Tower and enforced with NVIDIA OpenShell, allowing it to work independently while the enterprise stays in control. Additionally, the NVIDIA OpenShell and NVIDIA BlueField data processing unit (DPU) enforcement layers will be able to read ServiceNow's recently announced AI Passport solution to validate what AI agents, including Arc, have permission to access or execute.",
+    "kind": "new_product",
+    "verification": {
+      "id": 0,
+      "accept": true,
+      "reason": "The source explicitly mentions the 'Super Intelligence Control Tower' as a new product introduced by ServiceNow, with a detailed description of its capabilities."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ServiceNow, Inc.",
+      "stock_name": "NOW",
+      "filing_time": "2026-10-28T20:14:14.000Z",
+      "new_product": "ServiceNow plugin for ChatGPT",
+      "product_description": "A plugin for ChatGPT enabled by Action Fabric."
+    },
+    "accession": "0001373715-26-000092",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm",
+    "source_ids": [
+      "P0015"
+    ],
+    "evidence": "•Today, ServiceNow announced an expanded partnership with OpenAI to help enterprises move seamlessly from AI reasoning to governed action. The partnership expansion starts with a new ServiceNow plugin for ChatGPT, enabled by Action Fabric. The companies aim to develop Security and Risk solutions powered by OpenAI cyber models, a Codex integration in AI Workflow Factory, and voice-driven governance and risk assessment for ServiceNow’s Super Intelligence Control Tower.",
+    "kind": "new_product",
+    "verification": {
+      "id": 1,
+      "accept": true,
+      "reason": "The source explicitly mentions the 'ServiceNow plugin for ChatGPT' as a new product introduced as part of the expanded partnership with OpenAI."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ServiceNow, Inc.",
+      "stock_name": "NOW",
+      "filing_time": "2026-10-28T20:14:14.000Z",
+      "new_product": "AI Passport",
+      "product_description": "A solution to verify first- and third-party AI agents’ scopes in real-time."
+    },
+    "accession": "0001373715-26-000092",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm",
+    "source_ids": [
+      "P0023"
+    ],
+    "evidence": "•In October, ServiceNow announced a new AI Passport solution to verify first- and third-party AI agents’ scopes in real-time. New Super Intelligence Control Tower capabilities build on ServiceNow’s autonomous remediation and kill switch capabilities to drive end-to-end AI governance with discovery, visibility, control, measurement, and compliance on one unified platform.",
+    "kind": "new_product",
+    "verification": {
+      "id": 2,
+      "accept": true,
+      "reason": "The source explicitly mentions the 'AI Passport' as a new solution announced by ServiceNow in October."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ServiceNow, Inc.",
+      "stock_name": "NOW",
+      "filing_time": "2026-10-28T20:14:14.000Z",
+      "new_product": "ServiceNow Arc",
+      "product_description": "A personal long-running AI agent governed and secured by the Super Intelligence Control Tower."
+    },
+    "accession": "0001373715-26-000092",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm",
+    "source_ids": [
+      "P0019"
+    ],
+    "evidence": "•At NVIDIA GTC Berlin, ServiceNow announced the industry’s first personal enterprise agent and policy enforcement with NVIDIA, extending AI governance across software and silicon. ServiceNow Arc, a personal long-running AI agent that can take on everyday work, is now governed and secured by the ServiceNow Super Intelligence Control Tower and enforced with NVIDIA OpenShell, allowing it to work independently while the enterprise stays in control. Additionally, the NVIDIA OpenShell and NVIDIA BlueField data processing unit (DPU) enforcement layers will be able to read ServiceNow's recently announced AI Passport solution to validate what AI agents, including Arc, have permission to access or execute.",
+    "kind": "new_product",
+    "verification": {
+      "id": 3,
+      "accept": true,
+      "reason": "The source explicitly mentions 'ServiceNow Arc' as a new personal long-running AI agent introduced at NVIDIA GTC Berlin."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ServiceNow, Inc.",
+      "stock_name": "NOW",
+      "filing_time": "2026-10-28T20:14:14.000Z",
+      "new_product": "Flow",
+      "product_description": "A new AI-native service desk that deploys instantly and is built for any sized team or enterprise."
+    },
+    "accession": "0001373715-26-000092",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm",
+    "source_ids": [
+      "P0025",
+      "P0026"
+    ],
+    "evidence": "•Additionally in October, ServiceNow launched Flow, a new AI-native service desk that operates outside the ServiceNow AI Platform, deploys instantly, and is built for any sized team or enterprise where speed and simplicity matter most. Teams can automate workflows in chat channels, providing a lightweight, conversational execution layer.",
+    "kind": "new_product",
+    "verification": {
+      "id": 4,
+      "accept": true,
+      "reason": "The source explicitly mentions 'Flow' as a new AI-native service desk launched by ServiceNow in October."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ServiceNow, Inc.",
+      "stock_name": "NOW",
+      "filing_time": "2026-10-28T20:14:14.000Z",
+      "new_product": "ToolSmith",
+      "product_description": "A new agentic developer environment that allows developers to quickly and securely vibe code enterprise AI tools."
+    },
+    "accession": "0001373715-26-000092",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm",
+    "source_ids": [
+      "P0024"
+    ],
+    "evidence": "•The company also announced advances to ServiceNow EmployeeWorks, giving employees the ability to build AI agents with no code required. ToolSmith, a new agentic developer environment, allows developers to quickly and securely vibe code enterprise AI tools.",
+    "kind": "new_product",
+    "verification": {
+      "id": 5,
+      "accept": true,
+      "reason": "The source explicitly mentions 'ToolSmith' as a new agentic developer environment introduced by ServiceNow."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ServiceNow, Inc.",
+      "stock_name": "NOW",
+      "filing_time": "2026-10-28T20:14:14.000Z",
+      "new_product": "Autonomous Security",
+      "product_description": "A security offering with a suite of six unified solutions to help enterprises prevent and remediate cyber risk."
+    },
+    "accession": "0001373715-26-000092",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm",
+    "source_ids": [
+      "P0027"
+    ],
+    "evidence": "•ServiceNow also unveiled Autonomous Security, the industry’s most complete security offering, with a suite of six unified solutions to help enterprises prevent and remediate cyber risk. New AI Specialists complete security workflows autonomously, while capabilities from Armis and Veza feed directly into the Super Intelligence Control Tower.",
+    "kind": "new_product",
+    "verification": {
+      "id": 6,
+      "accept": true,
+      "reason": "The source explicitly mentions 'Autonomous Security' as a new security offering unveiled by ServiceNow with a suite of six unified solutions."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ServiceNow, Inc.",
+      "stock_name": "NOW",
+      "filing_time": "2026-10-28T20:14:14.000Z",
+      "new_product": "EmployeeWorks",
+      "product_description": "A platform that allows employees to build AI agents with no code required."
+    },
+    "accession": "0001373715-26-000092",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/erq3fy26.htm",
+    "source_ids": [
+      "P0021",
+      "P0024"
+    ],
+    "evidence": "•INRY, a Cprime Company, announced that it deployed ServiceNow EmployeeWorks in just six weeks to replace its legacy portal with an AI front door, and is now rolling out the platform to clients as a leading implementation partner. INRY cut the median time it takes for employees to submit requests by 60 percent, now completing those requests with a 97 percent resolution rate. •The company also announced advances to ServiceNow EmployeeWorks, giving employees the ability to build AI agents with no code required. ToolSmith, a new agentic developer environment, allows developers to quickly and securely vibe code enterprise AI tools.",
+    "kind": "new_product",
+    "verification": {
+      "id": 7,
+      "accept": true,
+      "reason": "The source explicitly mentions 'EmployeeWorks' as a new platform introduced by ServiceNow, allowing employees to build AI agents with no code required."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "AMD Instinct™ MI450 Series GPUs",
+      "product_description": "Launched by AMD, these are GPU products that are part of the Instinct series."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm",
+    "source_ids": [
+      "P0033"
+    ],
+    "evidence": "•Data Center segment revenue was a record $8.5 billion, up 97% year-over-year, driven by strong demand for AMD EPYC™ processors and the launch of AMD Instinct™ MI450 Series GPUs.",
+    "kind": "new_product",
+    "verification": {
+      "id": 0,
+      "accept": true,
+      "reason": "The source explicitly mentions the launch of the AMD Instinct™ MI450 Series GPUs."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "AMD Helion reference architecture",
+      "product_description": "An open, flexible blueprint for building rack-scale agentic systems."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm",
+    "source_ids": [
+      "P0041"
+    ],
+    "evidence": "◦AMD introduced the AMD Helion reference architecture, an open, flexible blueprint for building rack-scale agentic systems that lets customers configure the mix of CPUs and GPUs based on their workloads.",
+    "kind": "new_product",
+    "verification": {
+      "id": 2,
+      "accept": true,
+      "reason": "The source explicitly mentions the introduction of the AMD Helion reference architecture."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "AMD ROCm™ 10",
+      "product_description": "A software platform that brings AI-native developer experiences to AMD platforms."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm",
+    "source_ids": [
+      "P0042"
+    ],
+    "evidence": "◦AMD ROCm™ 10 was released, bringing AI-native developer experiences to AMD platforms with ROCm.AI, along with performance improvements and updated libraries, compilers, frameworks, tools and model support.",
+    "kind": "new_product",
+    "verification": {
+      "id": 3,
+      "accept": true,
+      "reason": "The source explicitly mentions the release of AMD ROCm™ 10."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "AMD Ross™",
+      "product_description": "An agentic tool for embedded system design that helps customers accelerate time to market."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm",
+    "source_ids": [
+      "P0051"
+    ],
+    "evidence": "◦AMD introduced AMD Ross™, an agentic tool for embedded system design that helps customers accelerate time to market and improve performance for AMD embedded solutions.",
+    "kind": "new_product",
+    "verification": {
+      "id": 4,
+      "accept": true,
+      "reason": "The source explicitly mentions the introduction of AMD Ross™."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "AMD Ryzen™ AI Halo platform",
+      "product_description": "A platform powered by Ryzen AI Max PRO 400 Series processors for local model running."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm",
+    "source_ids": [
+      "P0053"
+    ],
+    "evidence": "◦The AMD Ryzen™ AI Halo platform powered by Ryzen™ AI Max PRO 400 Series processors is now available, bringing the performance, memory and software ecosystem developers and creators need to build and run models locally.",
+    "kind": "new_product",
+    "verification": {
+      "id": 5,
+      "accept": true,
+      "reason": "The source explicitly mentions the availability of the AMD Ryzen™ AI Halo platform."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "Threadripper Halo Station",
+      "product_description": "A system powered by the AMD Threadripper 9955WX CPU and AMD Instinct MI350p GPU."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm",
+    "source_ids": [
+      "P0055"
+    ],
+    "evidence": "◦AMD debuted the Threadripper Halo Station, powered by the AMD Threadripper 9955WX CPU and AMD Instinct MI350p GPU, able to run trillion-parameter models locally.",
+    "kind": "new_product",
+    "verification": {
+      "id": 7,
+      "accept": true,
+      "reason": "The source explicitly mentions the debut of the Threadripper Halo Station."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "AMD Helios rackscale solutions",
+      "product_description": "First AMD Helios rackscale solutions are being used by Anthropic, Meta, Microsoft, OpenAI, and Oracle Cloud Infrastructure."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/amdq32026earningsslidesf.htm",
+    "source_ids": [
+      "P0018"
+    ],
+    "evidence": "14 | | Q3 2026 FINANCIAL RESULTS – November 3, 2026 Driven by strong demand for AMD EPYC processors and the launch of AMD Instinct MI450 Series GPUs Strategic Highlights Q3 2026 Data Center Segment Revenue $4.3B $8.5B Q3 2025 Q3 2026 Revenue $8.5 Billion Up 97% y/y Operating Margin Driven by higher revenue partially offset by higher operating expenses Operating Income $2.9 Billion vs. $1.1 Billion a year ago 25% 34% Q3 2025 Q3 2026 ▪ Anthropic, Meta, Microsoft, OpenAI and Oracle Cloud Infrastructure are running models and workloads on the first AMD Helios rackscale solutions. ▪ Introduced the AMD Helion reference architecture, an open, flexible blueprint for rack-scale agentic systems. ▪ Announced agreements to acquire World Labs and Taalas, expanding AMD capabilities across the full superintelligence stack. ▪ Released AMD ROCm 10, bringing AI-native developer experiences to AMD platforms with ROCm.AI. ▪ Oracle Cloud Infrastructure announced its OCI Compute E7 cloud compute instances will be powered by 6th Gen AMD EPYC CPUs.",
+    "kind": "new_product",
+    "verification": {
+      "id": 1,
+      "accept": true,
+      "reason": "The source explicitly mentions that 'AMD Helios rackscale solutions' are being used by Anthropic, Meta, Microsoft, OpenAI, and Oracle Cloud Infrastructure, indicating their introduction."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "AMD Threadripper Halo Station",
+      "product_description": "Combines the AMD Threadripper 9955WX with Instinct-class graphics."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/amdq32026earningsslidesf.htm",
+    "source_ids": [
+      "P0019"
+    ],
+    "evidence": "15 | | Q3 2026 FINANCIAL RESULTS – November 3, 2026 Q3 2026 Client and Gaming Segment 21% 15% Q3 2025 Q3 2026 Revenue Operating Margin Decline due to lower gross profit and lower operating leverage Revenue $3.7 Billion Down 8% y/y Operating Income $573 Million vs. $867 Million a year ago Strategic Highlights Client $2.8B Client $2.9B Gaming $1.3B Gaming $0.8B Q3 2025 Q3 2026 $4.0B $3.7B Lower semi-custom and graphics sales partially offset by higher Client revenue ▪ The AMD Ryzen AI Halo platform powered by Ryzen AI Max PRO 400 Series processors is now available for developers and creators building superintelligence locally. ▪ OEMs including HP and Lenovo expanded availability of systems powered by AMD Ryzen AI Max PRO 400 Series processors. ▪ Debuted the AMD Threadripper Halo Station, combining the AMD Threadripper 9955WX with Instinct-class graphics. Sums may not equal totals due to rounding",
+    "kind": "new_product",
+    "verification": {
+      "id": 5,
+      "accept": true,
+      "reason": "The source explicitly mentions the debut of the 'AMD Threadripper Halo Station,' combining the AMD Threadripper 9955WX with Instinct-class graphics."
+    }
+  },
+  {
+    "record": {
+      "company_name": "ADVANCED MICRO DEVICES INC",
+      "stock_name": "AMD",
+      "filing_time": "2026-11-03T21:16:27.000Z",
+      "new_product": "AMD Versal AI Core XQRVC1902 space-grade adaptive SoCs",
+      "product_description": "Began sampling in Q3 2026 for aerospace and defense applications."
+    },
+    "accession": "0000002488-26-000188",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/amdq32026earningsslidesf.htm",
+    "source_ids": [
+      "P0020"
+    ],
+    "evidence": "16 | | Q3 2026 FINANCIAL RESULTS – November 3, 2026 Q3 2026 Embedded Segment Revenue Driven by growth in aerospace and defense, automotive, communications and industrial end markets Operating Margin Driven by leverage on higher revenue $857M $1,109M Q3 2025 Q3 2026 33% 41% Q3 2025 Q3 2026 Revenue $1.1 Billion Up 29% y/y Operating Income $453 Million vs. $283 Million a year ago Strategic Highlights ▪ Began sampling AMD Versal AI Core XQRVC1902 space-grade adaptive SoCs. ▪ Kodiak AI’s next-generation autonomous truck platform is powered by AMD EPYC processors. ▪ Introduced AMD Ross , an agentic tool for AMD embedded system design that helps customers accelerate performance and time to market.",
+    "kind": "new_product",
+    "verification": {
+      "id": 6,
+      "accept": true,
+      "reason": "The source explicitly states that sampling of 'AMD Versal AI Core XQRVC1902 space-grade adaptive SoCs' began in Q3 2026 for aerospace and defense applications."
     }
   }
 ]

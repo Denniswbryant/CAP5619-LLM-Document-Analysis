@@ -1,10 +1,26 @@
 [
   {
-    "company_name": "Mitesco, Inc.",
-    "stock_name": "MITI",
-    "filing_time": "2025-08-28T21:27:02Z",
-    "accession": "0001185185-25-001092",
-    "base": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/",
-    "primary": "miti8k082725.htm"
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-11-03T21:16:27.000Z",
+    "accession": "0000002488-26-000188",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/",
+    "primary": "amd-20261103.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-10-28T20:14:14.000Z",
+    "accession": "0001373715-26-000092",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/",
+    "primary": "erq3fy26-8xk.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-08-26T20:21:19.000Z",
+    "accession": "0001045810-26-000073",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/",
+    "primary": "nvda-20260826.htm"
   }
 ]

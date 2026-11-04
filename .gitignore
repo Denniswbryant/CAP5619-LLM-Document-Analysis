@@ -1,5 +1,7 @@
 cache/
+results/
+rerun/
 __pycache__/
-.env
 tmp/
-__pycache__/
+personal/
+.env

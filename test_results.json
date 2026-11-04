@@ -1,0 +1,72 @@
+{
+  "synthetic_test": "passed",
+  "accepted_names": [
+    "Atlas Sensor",
+    "Quantum Router 2"
+  ],
+  "cases": [
+    "reporting-quarter launch accepted",
+    "named future-availability unveiling accepted",
+    "existing sales mention rejected",
+    "financing/appointment rejected",
+    "partnership-only rejected"
+  ],
+  "raw_extraction": {
+    "entities": [
+      {
+        "text": "Example Corp",
+        "label": "ORGANIZATION"
+      },
+      {
+        "text": "Jane Smith",
+        "label": "PERSON"
+      },
+      {
+        "text": "Beta Cloud",
+        "label": "ORGANIZATION"
+      },
+      {
+        "text": "Atlas Sensor",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Navigator Router",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quantum Router 2",
+        "label": "PRODUCT"
+      }
+    ],
+    "products": [
+      {
+        "name": "Atlas Sensor",
+        "description": "A wireless temperature sensor.",
+        "source_ids": [
+          "P0000"
+        ],
+        "kind": "new_product"
+      },
+      {
+        "name": "Quantum Router 2",
+        "description": "A new network router that will be available next quarter.",
+        "source_ids": [
+          "P0004"
+        ],
+        "kind": "new_product"
+      }
+    ]
+  },
+  "verification": {
+    "0": {
+      "id": 0,
+      "accept": true,
+      "reason": "The source explicitly introduces 'Atlas Sensor' as a new product with a description matching the evidence."
+    },
+    "1": {
+      "id": 1,
+      "accept": true,
+      "reason": "The source explicitly unveils 'Quantum Router 2' as a new product with a description matching the evidence and mentions its future availability."
+    }
+  }
+}

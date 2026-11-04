@@ -1,8 +1,10 @@
 {
-  "filings_attempted": 100,
-  "filings_completed": 87,
-  "filing_errors": 13,
-  "raw_product_rows": 6,
-  "reviewed_product_rows": 3,
-  "negative_filings_reviewed": 10
+  "filings_attempted": 220,
+  "filings_completed": 220,
+  "filings_with_errors": 0,
+  "companies_analyzed": 20,
+  "raw_unique_product_rows": 170,
+  "reviewed_product_rows": 102,
+  "companies_in_output": 8,
+  "maximum_description_characters": 114
 }

@@ -1,0 +1,1208 @@
+{
+  "AAPL:siriai": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI software offering introduced at WWDC26."
+    },
+    "reviewed_evidence_sha256": "6ab6cf1ab4cecbb29176e7c0111c55502e92314860b5dc1095666efe9d73680d"
+  },
+  "NVDA:nvidiaspectrum6switchsystems": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Switch systems supporting pluggable and co-packaged optics for the Vera Rubin platform."
+    },
+    "reviewed_evidence_sha256": "a90d4b6c95354edd1b87522b616905c8a8ac5e99674d3c9b9a1e00cf211850b3"
+  },
+  "NVDA:nvidiavera": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "CPU built for AI agents."
+    },
+    "reviewed_evidence_sha256": "e20ae6c92fc6065a235a17cf14ff7db7776c07277e777d192f4f3bfe181c9d60"
+  },
+  "NVDA:nvidiagroq3lpx": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Interactive AI inference accelerator entering full production."
+    },
+    "reviewed_evidence_sha256": "ee0de2edaef4b8823f4a6bacedb371140954fa0144e151a10406a4f8d85b8e58"
+  },
+  "NVDA:nvidiadsxplatform": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Platform to help infrastructure builders design, build and operate AI factories."
+    },
+    "reviewed_evidence_sha256": "c497d386f5741e66c333b1b918a69de842f1b2f901defc8716808b553c23e4e3"
+  },
+  "NVDA:nvidiabionemoagenttoolkit": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Domain-specific tools and skills for agentic life sciences applications."
+    },
+    "reviewed_evidence_sha256": "fc6b6843ec827185d4e790009ea0b8aff3f7ab4e55268d3e4cf2aa070bc8d3c1"
+  },
+  "NVDA:nvidiadgxstationforwindows": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Deskside AI supercomputer for developing and running agents on Windows."
+    },
+    "reviewed_evidence_sha256": "cf8aac063cab60399baf70314d40be9609f52876de8ea24088b32131dbd75c02"
+  },
+  "NVDA:nvidiaalpamayo2super": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open reasoning model for commercial robotaxi and autonomous vehicle development."
+    },
+    "reviewed_evidence_sha256": "1307aa9831d96beb45cc946c42bae98c180c4df9ffe4a53446a015b507eff801"
+  },
+  "NVDA:nvidiacosmos3": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open omnimodel for physical AI."
+    },
+    "reviewed_evidence_sha256": "5cc7495e44b7c0a5ab9bc38db213bfc48dfd5d6a83ff97fffbdde2b02bc8efea"
+  },
+  "NVDA:nvidiaisaacgr00treferencehumanoidrobot": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open humanoid robot reference design using Jetson Thor and the Isaac GR00T development platform."
+    },
+    "reviewed_evidence_sha256": "f32a6d52e8968d7adc5e6fda5f46effcb615e07f003759ae56f66ae77f575f9d"
+  },
+  "NVDA:nvidiahalosforrobotics": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Safety system for physical AI that combines AI computing and safety capabilities."
+    },
+    "reviewed_evidence_sha256": "9cefc74583de98895a19268a3c3e1098226a18a6c6442aef29269ea69e5f4629"
+  },
+  "NOW:servicenowpluginforchatgpt": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Plugin that connects ChatGPT to ServiceNow actions through Action Fabric."
+    },
+    "reviewed_evidence_sha256": "7e2ce647a4d4372136c7994875c7743c8d559cd0255ff79081d8125156699824"
+  },
+  "NOW:aipassport": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Solution for verifying first- and third-party AI agents' permission scopes in real time."
+    },
+    "reviewed_evidence_sha256": "a68f3f9d4925fc7e173f1f22d4d740ce0fcfc18f26f4f78040120a8747c11e70"
+  },
+  "NOW:servicenowarc": {
+    "accept": false,
+    "reason": "Passage centers on governance/security of an agent; Project Arc already captures the explicit new desktop-agent introduction.",
+    "reviewed_evidence_sha256": "cfe5b1f5988718ee899fe5cae2c7a52ed31bba4722b4a21d34c752cba5830d2d"
+  },
+  "NOW:flow": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI-native service desk that automates workflows in chat channels for teams and enterprises."
+    },
+    "reviewed_evidence_sha256": "e76c88f10a1b85a39d7e496fd9f5800eccc3cb928d19f670f90a5a85d1203763"
+  },
+  "NOW:toolsmith": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Agentic developer environment for building enterprise AI tools."
+    },
+    "reviewed_evidence_sha256": "b532ca803170288ee39a1661f434b03226b13d745ff2c6af425d928bc1bb8c48"
+  },
+  "NOW:autonomoussecurity": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Suite of six security solutions for preventing and remediating cyber risk."
+    },
+    "reviewed_evidence_sha256": "396e2e8bedce90838c20b11e2cf399c98c8db74f75c73faf8404a9fa01f3cc1b"
+  },
+  "INTC:intel14a09processdesignkitpdk": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Semiconductor process design kit released for Intel 14A technology."
+    },
+    "reviewed_evidence_sha256": "60b5fcbcce8a84688dc76bb204c3de229df2ee17e79c355d412d82eced4c12a4"
+  },
+  "AAPL:iphoneduo": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Smartphone model included in Apple's new iPhone lineup."
+    },
+    "reviewed_evidence_sha256": "7caabb35fe21e7f29b19df23d367f6d4367700b29dd1da80621e1ccf69a8b457"
+  },
+  "AAPL:iphone18pro": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Smartphone model in Apple's new Pro lineup."
+    },
+    "reviewed_evidence_sha256": "7caabb35fe21e7f29b19df23d367f6d4367700b29dd1da80621e1ccf69a8b457"
+  },
+  "AAPL:iphone18promax": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Smartphone model in Apple's new Pro lineup."
+    },
+    "reviewed_evidence_sha256": "7caabb35fe21e7f29b19df23d367f6d4367700b29dd1da80621e1ccf69a8b457"
+  },
+  "ANET:etherlinksu144": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Liquid-cooled Ethernet architecture supporting 144 accelerators per rack and cross-rack AI fabrics."
+    },
+    "reviewed_evidence_sha256": "f0e370a116115891d40c79bfcb42d481192be4a2d4b75b9d2808cbf452191ad3"
+  },
+  "AMD:amdinstinctmi450seriesgpus": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "GPU family launched within AMD's data center product portfolio."
+    },
+    "reviewed_evidence_sha256": "95b864d8342b61fb63429f02843c68dfaadecfeff035b49623be647d21f37e55"
+  },
+  "AMD:amdhelionreferencearchitecture": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open reference architecture for building rack-scale agentic systems with configurable CPUs and GPUs."
+    },
+    "reviewed_evidence_sha256": "c1345d21cd6fbdca83626a21b2ab4b0a933bf7df0f51c1d015be8cd16f39526b"
+  },
+  "AMD:amdrocm10": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Software release with AI-native developer tools and updated GPU libraries, compilers and model support."
+    },
+    "reviewed_evidence_sha256": "635e65d54ba7807b1ad52e1b9958b45dbcb27baf18efae9c4d4aaf866fe2bc47"
+  },
+  "AMD:amdross": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Agentic design tool for developing AMD embedded systems."
+    },
+    "reviewed_evidence_sha256": "fe8fa77d32ca1aabb5a52caebec6788a3fe0822ca20384ddc86a75d4205f005f"
+  },
+  "AMD:amdryzenaihaloplatform": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Platform using Ryzen AI Max PRO 400 Series processors for local AI development.",
+      "new_product": "Ryzen AI Halo"
+    },
+    "reviewed_evidence_sha256": "2e2b463283e23a3d3de7999d350de4895c63eaecf30409db7c3b7684375d4c0a"
+  },
+  "AMD:threadripperhalostation": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Local AI workstation using the Threadripper 9955WX CPU and Instinct MI350p GPU."
+    },
+    "reviewed_evidence_sha256": "72ea709f9a53e34be334df69cc6c5e0823a54e0ba84fa6244fb11c74672314f3"
+  },
+  "AMD:amdversalaicorexqrvc1902spacegradeadaptivesocs": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Space-grade adaptive system-on-chip products entering sampling."
+    },
+    "reviewed_evidence_sha256": "6c4c00f241b2c4926fe3401024fac6e7fb0ac99ebd897a408fd802ebdf4f8c11"
+  },
+  "NVDA:nvidiaverabluefield4stx": {
+    "accept": false,
+    "reason": "Passage announces security features for an existing named platform, not a named new version.",
+    "reviewed_evidence_sha256": "4231a37a52737fde4360989ef95e1809b458424048b51dfe79453feb43384a5e"
+  },
+  "NVDA:verarubin": {
+    "accept": false,
+    "reason": "Inventory preparation for a future introduction; this passage does not unveil the product.",
+    "reviewed_evidence_sha256": "7c5d09c3c44cf4587fd4343f21f1c644bbb00b582081553b2ef55b1834516c95"
+  },
+  "HPE:amdheliosairackbyhpe": {
+    "accept": false,
+    "reason": "First customer order for a system; no product launch or new availability is stated in the cited passage.",
+    "reviewed_evidence_sha256": "b7a41a0bbe3ff689efcfdc974142d33c06000014ca8f99e9e2a1c2ee5e1e081c"
+  },
+  "NOW:superintelligencecontroltower": {
+    "accept": false,
+    "reason": "Existing platform positioning and future integrations, not a new product introduction.",
+    "reviewed_evidence_sha256": "ade48a0632f92c60684cb315ed70eb3ad5280be36ac325aa1ee8916cc71d8888"
+  },
+  "NOW:employeeworks": {
+    "accept": false,
+    "reason": "Deployment and advances to an existing platform; no named new version.",
+    "reviewed_evidence_sha256": "4e884b0cf622abce7ed9bd441b9700852350708ceb7fd2a1b21df8c2c329d44d"
+  },
+  "INTC:intelgpudseries": {
+    "accept": false,
+    "reason": "Technical details and demonstrations of an upcoming existing design, not a launch in this passage.",
+    "reviewed_evidence_sha256": "fc52062c709ceafb7709c2203e1fbdf5d2b8238e4685581d56f25fd9460c176f"
+  },
+  "INTC:intelcoreseries3": {
+    "accept": false,
+    "reason": "Architecture showcase only; no introduction or new availability stated.",
+    "reviewed_evidence_sha256": "f67db13ef232e1f2cc51516c8d438460ec80b34b0f9f58070aaee4337f87b46b"
+  },
+  "INTC:diamondrapids": {
+    "accept": false,
+    "reason": "Plans for a collaboration and architecture showcase, not a released or newly unveiled product in this passage.",
+    "reviewed_evidence_sha256": "2c1d94817383ed57455b539e9c3e4ce39b8be29c44c4a9e1314a544acbbf741b"
+  },
+  "ANET:openethernetrackscalearchitecturesforscaleupandscaleoutaifabrics": {
+    "accept": false,
+    "reason": "Generic portfolio description; the distinct named architecture is Etherlink SU-144.",
+    "reviewed_evidence_sha256": "f0e370a116115891d40c79bfcb42d481192be4a2d4b75b9d2808cbf452191ad3"
+  },
+  "ANET:arista7800aispine": {
+    "accept": false,
+    "reason": "Existing flagship highlighted in a networking strategy discussion; no new model introduced.",
+    "reviewed_evidence_sha256": "e49c4ce7b7e4dc11d6f2587b1363c7d30417e7b21cbc7ed6435764ab7085cbbd"
+  },
+  "AMD:amdheliosrackscalesolutions": {
+    "accept": false,
+    "reason": "Customer workload adoption of existing solutions, not a product launch in this passage.",
+    "reviewed_evidence_sha256": "659d594a7a40e5fac7b74aebb7ba12d8548182cb11c69b9d4c0f5d3c71fc0786"
+  },
+  "AMD:amdthreadripperhalostation": {
+    "accept": false,
+    "reason": "Alias of Threadripper Halo Station already retained; do not count twice.",
+    "reviewed_evidence_sha256": "dcf1fe5893338bcf1af68b619b06399b9fc614ebcc50f6495733acbe89e60b0f"
+  },
+  "AAPL:iphone17e": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "New iPhone smartphone model introduced during the reporting quarter."
+    },
+    "reviewed_evidence_sha256": "9d28f2022849da3f98acad8a922872f089286b696ade740ae07ced8c62790516"
+  },
+  "AAPL:m4poweredipadair": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "iPad Air tablet model powered by an M4 processor."
+    },
+    "reviewed_evidence_sha256": "9d28f2022849da3f98acad8a922872f089286b696ade740ae07ced8c62790516"
+  },
+  "AAPL:macbookneo": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "MacBook laptop model launched during the reporting quarter."
+    },
+    "reviewed_evidence_sha256": "9d28f2022849da3f98acad8a922872f089286b696ade740ae07ced8c62790516"
+  },
+  "NOW:servicenowotto": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Unified AI experience combining Now Assist, Moveworks and AI Experience to complete enterprise work."
+    },
+    "reviewed_evidence_sha256": "58e4632f649a20ae2e8238e9733327d94df93d2c9632b92a0bea4a0fef93b107"
+  },
+  "NOW:autonomousworkforceaispecialists": {
+    "accept": false,
+    "reason": "Umbrella name covering several AI specialists; retain separately named products and avoid overlap with Autonomous Security suite.",
+    "reviewed_evidence_sha256": "249cb1a71ae9f791b41c6bcdb2e7bce9486df3912aaa282ee627a01cc216867f"
+  },
+  "NOW:buildagent": {
+    "accept": false,
+    "reason": "Performance or partnership context does not establish a named new product introduction in the retained source passage.",
+    "reviewed_evidence_sha256": "3b561db47da82498fb04cf960b9ddebca6114dd6cf81c036a028a591ec04f630"
+  },
+  "NOW:contextengine": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Enterprise context engine linking assets, regulated processes, approval chains and decision precedents for AI."
+    },
+    "reviewed_evidence_sha256": "747ab536d7418e4dd32ed505dc595f500cf8c14c4178bde925c9bf65c5314e6f"
+  },
+  "NOW:autonomousdataanalytics": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Analytics offering for querying enterprise data in plain language and supplying data to autonomous AI."
+    },
+    "reviewed_evidence_sha256": "9df5973405c3ab27671d41cbd55b29ba02274ce06107ee6df0b47503a7e11ac3"
+  },
+  "NOW:servicenowactionfabric": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Framework enabling ServiceNow and third-party AI to take action through enterprise workflows."
+    },
+    "reviewed_evidence_sha256": "0e808ccc838bfc7d0e35cfcd331085d51ffbb6d1d2301d1f578953281b6ea972"
+  },
+  "NOW:projectarc": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Enterprise autonomous desktop agent secured by NVIDIA OpenShell."
+    },
+    "reviewed_evidence_sha256": "e77af6f2fdbe2600a4162c625be9cd85ecd95eb52432b22020395e3ccc2292ec"
+  },
+  "INTC:xeon6": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Data center CPU using Intel 18A technology for server workloads."
+    },
+    "reviewed_evidence_sha256": "4f1589bd312864c0c6d3a00dcd2c04e38718090ef1988821b2284b01fd184c1b"
+  },
+  "INTC:intelarcgseriesprocessors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Processor family designed for handheld gaming systems."
+    },
+    "reviewed_evidence_sha256": "5a41a44b631c7c66e32c1dedc76a2bf19ba4575d57bbb5ecfecaf3fb1d7fea0e"
+  },
+  "INTC:ethernete835portfolio": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Networking portfolio spanning 10GbE to 200GbE for cloud, AI, enterprise, edge and telecom infrastructure."
+    },
+    "reviewed_evidence_sha256": "23cbec86618f5f93ef91d39dc78e52b85511843eb32a264efdad1a066015cacf"
+  },
+  "INTC:openvinophysicalai": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open-source framework for deploying robotics models across vision, language, reasoning and motion control."
+    },
+    "reviewed_evidence_sha256": "40bbfcbe5b247063bcbbdea093631c9915c631d4d5525d21607d3309f764193f"
+  },
+  "ANET:7060xe7series": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "1.6-terabit networking portfolio for AI fabrics, with up to 100 Tbps of system bandwidth."
+    },
+    "reviewed_evidence_sha256": "d11a0149a90378294d93bcc143fb632659869edcd1c6f48d75ad3dd2b90554fb"
+  },
+  "ORCL:oracleaidataplatform": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Platform that generates enterprise ontologies for AI reasoning on private business data."
+    },
+    "reviewed_evidence_sha256": "0200d66bcb23fead067ddf96c82cb16fb217268b65517b42f7c77f0c18587291"
+  },
+  "NOW:aicontroltower": {
+    "accept": false,
+    "reason": "This passage expands existing platform capabilities without introducing a named new version.",
+    "reviewed_evidence_sha256": "adc289eeda5d3aff34dd2babe8cd1917c92479204c046c855ac702b665a5162b"
+  },
+  "IBM:lightwell": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Enterprise capability for addressing open-source software vulnerabilities."
+    },
+    "reviewed_evidence_sha256": "83e2b936df345bc391e96dd23eb37ddd180f2a636398ff33acd00c59176766bd"
+  },
+  "ANET:aispines": {
+    "accept": false,
+    "reason": "Generic architectural heading rather than a distinct named new product.",
+    "reviewed_evidence_sha256": "3947251a76f07cb5af8940cff93a4aa606cb6386d0b8362c2e4a45d9cf6d315f"
+  },
+  "ORCL:oraclemulticloudaidatabase": {
+    "accept": false,
+    "reason": "Revenue growth of an existing database business, not an introduction.",
+    "reviewed_evidence_sha256": "1f8f1fca35781eee312994cdbbf2adcb7ba15b3a3fd12144da6c794f48c3b28e"
+  },
+  "ORCL:oraclesnewaiclinicaltrialsystem": {
+    "accept": false,
+    "reason": "Descriptive reference to a future healthcare system; no distinct named product release is identified.",
+    "reviewed_evidence_sha256": "b408de26ade7cdf91bd013a7f856c6eeaf42af67730cfda5a78b4bbba39663ed"
+  },
+  "IBM:anderon": {
+    "accept": false,
+    "reason": "Letter of intent to build a foundry and future investment; not a product release.",
+    "reviewed_evidence_sha256": "37e3e0886d212994f6addc620645a74101f85210f390ad8cbe2aa6006d3b2ed3"
+  },
+  "CRM:slackbot": {
+    "accept": false,
+    "reason": "Change to ARR reporting definition, not a product launch.",
+    "reviewed_evidence_sha256": "1d4ecf9ff1db04bf54d0062600113299649f5e7d66d29c34a144964d11f8f2c4"
+  },
+  "CRM:headless360": {
+    "accept": false,
+    "reason": "Change to ARR reporting definition, not a product launch.",
+    "reviewed_evidence_sha256": "1d4ecf9ff1db04bf54d0062600113299649f5e7d66d29c34a144964d11f8f2c4"
+  },
+  "AMD:amdheliosrackscalesolution": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Rack-scale AI solution introduced as part of the data center portfolio.",
+      "new_product": "AMD Helios"
+    },
+    "reviewed_evidence_sha256": "c16396a1bab1c9b8da8aadc51d3b926116b8d3abadb361813502dc1129de624f"
+  },
+  "AMD:mi455x": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "MI400 Series GPU model for large-scale AI training and inference."
+    },
+    "reviewed_evidence_sha256": "0c6ebbbf0937fe50c6ed8fc9dea4f7391e5008fb77d3f85ee4d57ee0ef2ea01a"
+  },
+  "AMD:mi430x": {
+    "accept": true,
+    "reason": "The source bullet continues from the immediately preceding passage, which launches MI400 Series models including MI455X and MI430X.",
+    "corrections": {
+      "product_description": "MI400 Series accelerator for high-performance computing and sovereign AI workloads."
+    },
+    "reviewed_evidence_sha256": "a82faf084e3c8ade33ca91c2d9fb49ce31534d51e1b58d12ec8c53fc5acd25cc",
+    "additional_source_context": {
+      "P0038": "◦Launched the AMD Instinct MI400 Series GPU family, including MI455X, bringing leadership compute, memory capacity and bandwidth for large-scale AI training and",
+      "P0039": "inference, and MI430X, the most advanced accelerator for HPC and sovereign AI workloads."
+    }
+  },
+  "AMD:6thgenamdepycservercpus": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Server CPU generation designed for agentic AI, general-purpose and enterprise workloads."
+    },
+    "reviewed_evidence_sha256": "7ffe16b4b66311886fe4cc6a4060b57f3cc02c4b31a4f14d470c715e06a055c2"
+  },
+  "AMD:rocmai": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI-native developer experience for building, deploying and optimizing applications across AMD platforms."
+    },
+    "reviewed_evidence_sha256": "d81d22f6587f3bc95ce0a3a8a91f7c48950aedf78b91a0196b9eb26c35130078"
+  },
+  "AMD:amdryzen7700x3dprocessors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Ryzen processor model launched for gaming workloads on Socket AM5 platforms."
+    },
+    "reviewed_evidence_sha256": "19b35cc9a6ef706f3e94fd154c41d6e7cc94f21e4851fa6588903f03e4f92d83"
+  },
+  "AMD:amdryzenaiembeddedx100seriesprocessors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Embedded x86 processor family combining CPU, GPU and AI acceleration for robotics and industrial systems."
+    },
+    "reviewed_evidence_sha256": "217c5c24ec85b5abd9611687de75497372017f88538d477d5234f7b4e0dfe873"
+  },
+  "AMD:amdkriaaisystemonmodules": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "System-on-modules announced for developing physical AI systems."
+    },
+    "reviewed_evidence_sha256": "44aadd8e76b3a2d98bdabbdda790a61b5bbbc2635586c5e30784575b8fdb0ac7"
+  },
+  "AMD:amdkriaairoboticsdeveloperplatform": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Developer platform announced for building physical AI and robotics systems."
+    },
+    "reviewed_evidence_sha256": "44aadd8e76b3a2d98bdabbdda790a61b5bbbc2635586c5e30784575b8fdb0ac7"
+  },
+  "AMD:versalpremiumseriesgen2memoryonpackageadaptivesocs": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Adaptive system-on-chip products for faster data transfer in test, video, communications and aerospace workloads."
+    },
+    "reviewed_evidence_sha256": "1ed43306b7697aee1a9cd29b724ea6d4dbb14d82c000837b3b495744c5e0db4f"
+  },
+  "AMD:pensandosalinaandvulcanonetworking": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Networking offerings in AMD's launched data center product portfolio."
+    },
+    "reviewed_evidence_sha256": "95b864d8342b61fb63429f02843c68dfaadecfeff035b49623be647d21f37e55"
+  },
+  "AMD:amdinstinctmi350pgpus": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "GPU products for adding AI acceleration to existing computing infrastructure."
+    },
+    "reviewed_evidence_sha256": "95b864d8342b61fb63429f02843c68dfaadecfeff035b49623be647d21f37e55"
+  },
+  "AMD:ryzenaihalosystems": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Systems for local AI development using AMD hardware and ROCm open software.",
+      "new_product": "Ryzen AI Halo"
+    },
+    "reviewed_evidence_sha256": "ae061c4a74088f67d81bcdc0c3bd5b079a18ccc774e0818ac5116653a8a190c3"
+  },
+  "AMD:amdinstinctmi400seriesgpufamily": {
+    "accept": false,
+    "reason": "Family-level umbrella for MI455X and MI430X; retain the two distinct models rather than count the umbrella again.",
+    "reviewed_evidence_sha256": "87a6efe7a0dd5f22ca2d255ac307f6241def982d17afb6e622fba2fe83530a30"
+  },
+  "AMD:amdryzenpro9000seriesprocessor": {
+    "accept": false,
+    "reason": "Unspecified expansion of an existing processor lineup; no distinct new model named.",
+    "reviewed_evidence_sha256": "aeb6a2db7bf76cbb2b53febb8f04ace6cd5294e5183b3c31b9e719f7f7a35c48"
+  },
+  "AMD:amdkriaaisolutions": {
+    "accept": false,
+    "reason": "Umbrella for the separately retained Kria system-on-modules and robotics developer platform.",
+    "reviewed_evidence_sha256": "44aadd8e76b3a2d98bdabbdda790a61b5bbbc2635586c5e30784575b8fdb0ac7"
+  },
+  "AMD:6thgenepyccpus": {
+    "accept": false,
+    "reason": "Shortened alias of 6th Gen AMD EPYC server CPUs already retained from the same filing.",
+    "reviewed_evidence_sha256": "95b864d8342b61fb63429f02843c68dfaadecfeff035b49623be647d21f37e55"
+  },
+  "ANET:aristacloudvisionai": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Observability software providing network, system and job-level visibility for AI workloads."
+    },
+    "reviewed_evidence_sha256": "2e94ce0eb2e3b83b12b35749373d1c348890377c121433c0ea875dbb6d0e1672"
+  },
+  "ANET:r4seriesplatforms": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Networking platforms for AI, data centers and routed backbones, with integrated security."
+    },
+    "reviewed_evidence_sha256": "438d403b92329873a9d9ffba87b68836b4086e7248a1ed574d5073fe87d4a4c1"
+  },
+  "ANET:cognitivecampusswitches": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Ruggedized EOS networking platforms for industrial and outdoor environments."
+    },
+    "reviewed_evidence_sha256": "584a4960775711be59432d4cd9675ccb2f3236ec4d002fa14fff9b0121985e97"
+  },
+  "NOW:buildagentskills": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Developer tools for building in existing tools and deploying directly to ServiceNow."
+    },
+    "reviewed_evidence_sha256": "747ab536d7418e4dd32ed505dc595f500cf8c14c4178bde925c9bf65c5314e6f"
+  },
+  "NOW:level1servicedeskaispecialist": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI specialist that diagnoses and resolves common IT support requests with governance and human oversight."
+    },
+    "reviewed_evidence_sha256": "b4bc592f7d75e8e98dbfc6d829f932022d9ae4b38c713ab7b163ae9116b8bacc"
+  },
+  "NOW:servicenowemployeeworks": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Conversational enterprise interface combining Moveworks search and AI with ServiceNow workflows."
+    },
+    "reviewed_evidence_sha256": "c6941169a4337aab8ad7bbc4cf5adcc59e23826618a822cd94198aa778d189e5"
+  },
+  "NOW:healthcareoperations": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Operational system connecting care teams with facilities, biomed and IT support inside electronic medical records."
+    },
+    "reviewed_evidence_sha256": "cbce22f1aa2e9ee62875066b71220334807f0be0e5329d965c33249eed32866f"
+  },
+  "NOW:industrialconnectedworkforce": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Software connecting quality, warranty, orders and quoting systems with real-time digital guidance."
+    },
+    "reviewed_evidence_sha256": "04ecae51f924520ab1a83bf3cc03e6fdbdf090c9f0822377cffcedf9fd2f7120"
+  },
+  "INTC:intelxeon600processors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Processors for workstation computing."
+    },
+    "reviewed_evidence_sha256": "fc34e546d45ee8a108ba5359a35838d2aabf2d0daf8d39be1f141938c0659a3c"
+  },
+  "INTC:intelcoreultra200hxplusprocessors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Client processors introduced in the expanded desktop and mobile portfolio."
+    },
+    "reviewed_evidence_sha256": "fc34e546d45ee8a108ba5359a35838d2aabf2d0daf8d39be1f141938c0659a3c"
+  },
+  "INTC:intelcoreseries2processors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Processors for health and life sciences edge computing."
+    },
+    "reviewed_evidence_sha256": "fc34e546d45ee8a108ba5359a35838d2aabf2d0daf8d39be1f141938c0659a3c"
+  },
+  "INTC:intelcoreultraseries3processors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Client processors introduced with Intel vPro."
+    },
+    "reviewed_evidence_sha256": "fc34e546d45ee8a108ba5359a35838d2aabf2d0daf8d39be1f141938c0659a3c"
+  },
+  "INTC:intelcoreseries3processors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Mainstream client processors built on Intel 18A with updated features and all-day battery life."
+    },
+    "reviewed_evidence_sha256": "fc34e546d45ee8a108ba5359a35838d2aabf2d0daf8d39be1f141938c0659a3c"
+  },
+  "ANET:ethernetforscaleupnetworksesun": {
+    "accept": false,
+    "reason": "Open standards workstream rather than an operating product release.",
+    "reviewed_evidence_sha256": "b1cc2fbb1e9f1db4dc2ae5c6ee5f27372e09d6bde8fb82f989ae680fde8a6c0a"
+  },
+  "NOW:autonomousworkforce": {
+    "accept": false,
+    "reason": "Umbrella launch; retain its separately named first available Service Desk AI Specialist without double counting.",
+    "reviewed_evidence_sha256": "b4bc592f7d75e8e98dbfc6d829f932022d9ae4b38c713ab7b163ae9116b8bacc"
+  },
+  "INTC:intelxeon6processors": {
+    "accept": false,
+    "reason": "Existing processor deployment in a collaboration, not an introduction.",
+    "reviewed_evidence_sha256": "e251567939ed37bcd6e9328bc0f5db2c6346d7be825907203a4c4b9b3d9aabb8"
+  },
+  "AMD:amdinstinctmi450": {
+    "accept": false,
+    "reason": "Future customer deployment plans for a custom GPU; passage does not announce product release or availability.",
+    "reviewed_evidence_sha256": "e798f068b06145982bb05ba1b0d34236cfa6a20ded98d76e26b04a57e4c01795"
+  },
+  "AMD:ryzen9950x3d2dualedition": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Processor for creative and developer workloads with dual stacks of AMD 3D V-Cache."
+    },
+    "reviewed_evidence_sha256": "821ba33cf10b174a3f9c0dc8274f67fa3705ad06227bc05063d57dec81201e2a"
+  },
+  "AMD:ryzen9950x3d2dualeditionprocessors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Processor for creative and developer workloads with dual stacks of AMD 3D V-Cache.",
+      "new_product": "Ryzen 9950X3D2 Dual Edition"
+    },
+    "reviewed_evidence_sha256": "621fb8bd75da63361164925db0c823c73d419c703496e10471d6312cc6a95140"
+  },
+  "AMD:ryzenaiembeddedp100series": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Processors providing power-efficient AI computing for industrial and edge applications."
+    },
+    "reviewed_evidence_sha256": "cb262dd7a40729323a05afc0cd17430391ff7dec8ea7981fa7fa6cd37d0c558e"
+  },
+  "AMD:ryzenaiembeddedp100seriesprocessors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Processors providing power-efficient AI computing for industrial and edge applications.",
+      "new_product": "Ryzen AI Embedded P100 Series"
+    },
+    "reviewed_evidence_sha256": "00fae2b16ace363cfee9c3662360e5048053ec29562d046788c5cb8cec0f56fe"
+  },
+  "AMD:kintexultrascalegen2": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Mid-range FPGA family with memory bandwidth and I/O features for industrial, imaging and broadcast applications.",
+      "new_product": "Kintex UltraScale+ Gen 2"
+    },
+    "reviewed_evidence_sha256": "99a7b11b6b94023eaefa1c10cc9eb7489050fd4c562258bc1335710dd6d53326"
+  },
+  "AMD:kintexultrascalegen2familyofmidrangefpgas": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Mid-range FPGA family with memory bandwidth and I/O features for industrial, imaging and broadcast applications.",
+      "new_product": "Kintex UltraScale+ Gen 2"
+    },
+    "reviewed_evidence_sha256": "00fae2b16ace363cfee9c3662360e5048053ec29562d046788c5cb8cec0f56fe"
+  },
+  "AMD:amdryzenaipro400seriesprocessors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Enterprise desktop processors supporting Copilot+ experiences."
+    },
+    "reviewed_evidence_sha256": "621fb8bd75da63361164925db0c823c73d419c703496e10471d6312cc6a95140"
+  },
+  "AMD:epyc8005servercpus": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Server processors for telecommunications and edge computing environments."
+    },
+    "reviewed_evidence_sha256": "91edfbb6f37ac09fd92cb435c776c6b18bb011eb52bc62694d2a8424633c1f24"
+  },
+  "NVDA:nvidianemoclaw": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Software announced for the OpenClaw agent platform."
+    },
+    "reviewed_evidence_sha256": "a24de60785ad312cc8a55f4fac3ed93d019123fa73f4edb9b74d014b29c13930"
+  },
+  "NVDA:nvidiaopenshell": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Software providing privacy and security controls for autonomous AI agents."
+    },
+    "reviewed_evidence_sha256": "a24de60785ad312cc8a55f4fac3ed93d019123fa73f4edb9b74d014b29c13930"
+  },
+  "NVDA:nvidiaagenttoolkit": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open source platform for building autonomous enterprise AI agents."
+    },
+    "reviewed_evidence_sha256": "a24de60785ad312cc8a55f4fac3ed93d019123fa73f4edb9b74d014b29c13930"
+  },
+  "NVDA:nvidiaising": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI models announced as part of expanded open model development."
+    },
+    "reviewed_evidence_sha256": "ce674fa77487442f358eff5e9d27fc1073e5b6a55b454c6f46326f11f89cc58a"
+  },
+  "NVDA:nvidiadlss45dynamicmultiframegeneration": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI-powered graphics technology supporting dynamic multi-frame generation.",
+      "new_product": "NVIDIA DLSS 4.5"
+    },
+    "reviewed_evidence_sha256": "a062f92af5ad7e45b19e966005d7c5570c05784183c5e00b1024778bd2f02dbd"
+  },
+  "NVDA:dlss5": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Previewed graphics technology using a 3D-guided neural rendering model."
+    },
+    "reviewed_evidence_sha256": "a062f92af5ad7e45b19e966005d7c5570c05784183c5e00b1024778bd2f02dbd"
+  },
+  "NVDA:nvidiaalpamayo15": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open model announced for scalable autonomous driving systems."
+    },
+    "reviewed_evidence_sha256": "dc17c94afc87e12fe7571e4b60617f8ee1231b812edf7fbb867f01ecd7dcc902"
+  },
+  "NVDA:nvidiaomniversenurec": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Technologies announced for scalable autonomous driving systems."
+    },
+    "reviewed_evidence_sha256": "dc17c94afc87e12fe7571e4b60617f8ee1231b812edf7fbb867f01ecd7dcc902"
+  },
+  "NVDA:nvidiahalosos": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Unified safety architecture for AI-driven vehicles."
+    },
+    "reviewed_evidence_sha256": "c067166ae40233f65deca3d7865951ab3b2d290f66ef2891121a4bff18a6e940"
+  },
+  "NVDA:nvidiaisaacgr00tn": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "New models announced for physical AI development."
+    },
+    "reviewed_evidence_sha256": "89f899e496cdac689f7d5d868986bf386b4a518a033c64f0131f863e2fe8217a"
+  },
+  "NVDA:nvidiaigxthor": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Computing platform announced as generally available for physical AI applications."
+    },
+    "reviewed_evidence_sha256": "89f899e496cdac689f7d5d868986bf386b4a518a033c64f0131f863e2fe8217a"
+  },
+  "AMD:6thgenamdepyccpus": {
+    "accept": false,
+    "reason": "Future customer deployment; no release or availability announcement in this passage.",
+    "reviewed_evidence_sha256": "e798f068b06145982bb05ba1b0d34236cfa6a20ded98d76e26b04a57e4c01795"
+  },
+  "NVDA:nvidianemotron": {
+    "accept": false,
+    "reason": "New unspecified models in existing family; no distinct version named.",
+    "reviewed_evidence_sha256": "ce674fa77487442f358eff5e9d27fc1073e5b6a55b454c6f46326f11f89cc58a"
+  },
+  "NVDA:nvidiabionemo": {
+    "accept": false,
+    "reason": "New unspecified models in existing family; no distinct version named.",
+    "reviewed_evidence_sha256": "ce674fa77487442f358eff5e9d27fc1073e5b6a55b454c6f46326f11f89cc58a"
+  },
+  "NVDA:nvidianemotroncoalition": {
+    "accept": false,
+    "reason": "Coalition rather than operating product.",
+    "reviewed_evidence_sha256": "ce674fa77487442f358eff5e9d27fc1073e5b6a55b454c6f46326f11f89cc58a"
+  },
+  "NVDA:nvidiaverarubinpowereda5xinstances": {
+    "accept": false,
+    "reason": "Google Cloud instance attributed as NVIDIA product; collaboration passage does not establish NVIDIA product launch.",
+    "reviewed_evidence_sha256": "e47b2b8c76451ee11e59860b37685b5c818cc890144054a29d6c4dad166b6e88"
+  },
+  "NVDA:nvidianvlinkfusion": {
+    "accept": false,
+    "reason": "Existing technology mentioned in a strategic partnership.",
+    "reviewed_evidence_sha256": "5936688403cfcc062b9226bf71e16a666d5f40a77b35adfc6361b666d21c3c90"
+  },
+  "NVDA:nvidiacosmos": {
+    "accept": false,
+    "reason": "Unspecified new models within existing family; no distinct version named.",
+    "reviewed_evidence_sha256": "89f899e496cdac689f7d5d868986bf386b4a518a033c64f0131f863e2fe8217a"
+  },
+  "CRM:agentforce": {
+    "accept": false,
+    "reason": "ARR metric definition for an existing product, not a release announcement.",
+    "reviewed_evidence_sha256": "eecc785f947e93329e25f496516e0698019d3fc8a7c2e30af25b466f32850c88"
+  },
+  "CRM:slackmodelcontextprotocolmcp": {
+    "accept": false,
+    "reason": "Adoption milestone rather than a product introduction; no specific newly launched version identified.",
+    "reviewed_evidence_sha256": "0da6cba5f5c5d1a55cad18f7b76ccc68b3cc55fe9fffc4c09aef5211daba3bb7"
+  },
+  "ANET:aidrivenenterpriseproducts": {
+    "accept": false,
+    "reason": "Unnamed portfolio description; specific product names are absent.",
+    "reviewed_evidence_sha256": "ea790ed4b2eb90b3a6b0bf09edcaa054bdeccd77a832f40c253b1acf83e53611"
+  },
+  "AAPL:iphone17": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Smartphone introduced in the September 2025 iPhone lineup."
+    },
+    "reviewed_evidence_sha256": "577cbe6a6b5b90e8f54e80bfd76866e2d3e54bcdf9588aa833c7359f78bfc668"
+  },
+  "AAPL:iphone17pro": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Pro smartphone introduced in the September 2025 iPhone lineup."
+    },
+    "reviewed_evidence_sha256": "577cbe6a6b5b90e8f54e80bfd76866e2d3e54bcdf9588aa833c7359f78bfc668"
+  },
+  "AAPL:iphoneair": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Smartphone introduced in the September 2025 iPhone lineup."
+    },
+    "reviewed_evidence_sha256": "577cbe6a6b5b90e8f54e80bfd76866e2d3e54bcdf9588aa833c7359f78bfc668"
+  },
+  "AAPL:airpodspro3": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Third-generation AirPods Pro introduced alongside the September 2025 device lineup."
+    },
+    "reviewed_evidence_sha256": "577cbe6a6b5b90e8f54e80bfd76866e2d3e54bcdf9588aa833c7359f78bfc668"
+  },
+  "AAPL:applewatchlineup": {
+    "accept": false,
+    "reason": "Generic lineup without named models or versions; insufficient specificity for a distinct product record.",
+    "reviewed_evidence_sha256": "577cbe6a6b5b90e8f54e80bfd76866e2d3e54bcdf9588aa833c7359f78bfc668"
+  },
+  "NOW:nowassist": {
+    "accept": false,
+    "reason": "Performance or partnership context does not establish a named new product introduction in the retained source passage.",
+    "reviewed_evidence_sha256": "da4ff1b329993fba044d90b3c0a5cbd648714d5572c26dc3bbfda55f43f6f34f"
+  },
+  "NOW:workflowdatafabric": {
+    "accept": false,
+    "reason": "Performance or partnership context does not establish a named new product introduction in the retained source passage.",
+    "reviewed_evidence_sha256": "c10b31c4227a277fa868b4d14f02d9ad54d1da8344a6ba4529335813a16abf6b"
+  },
+  "NOW:raptor": {
+    "accept": false,
+    "reason": "Performance or partnership context does not establish a named new product introduction in the retained source passage.",
+    "reviewed_evidence_sha256": "c10b31c4227a277fa868b4d14f02d9ad54d1da8344a6ba4529335813a16abf6b"
+  },
+  "NOW:cpq": {
+    "accept": false,
+    "reason": "Performance or partnership context does not establish a named new product introduction in the retained source passage.",
+    "reviewed_evidence_sha256": "c10b31c4227a277fa868b4d14f02d9ad54d1da8344a6ba4529335813a16abf6b"
+  },
+  "NOW:nownextai": {
+    "accept": false,
+    "reason": "Performance or partnership context does not establish a named new product introduction in the retained source passage.",
+    "reviewed_evidence_sha256": "7a3927a0b5ba358acb14e194b3959bbb20b6af703f815b94c50e332aaa5e7adc"
+  },
+  "NVDA:nvidiainferencecontextmemorystorageplatform": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI-native storage infrastructure powered by the NVIDIA BlueField-4 data processor."
+    },
+    "reviewed_evidence_sha256": "0dd01362c6ec8d128c7d785619ea8442e7064d8f7bf91cae9d998d473d50cbfe"
+  },
+  "NVDA:nvidianemotron3familyofopenmodels": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open models, data and libraries for transparent, specialized agentic AI development."
+    },
+    "reviewed_evidence_sha256": "633f25b1e752b362de054535917bf7d42d0e882eea97b95a491d78ec05a9399d"
+  },
+  "NVDA:nvidiaearth2familyofopenmodels": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open accelerated models and tools for AI weather applications."
+    },
+    "reviewed_evidence_sha256": "1920c09dc03eb10db218bae892ff947a3c59e927c2bee092eb7ecc52a5974f7f"
+  },
+  "NVDA:nvidiadlss45": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI-powered graphics technology with improvements in graphics quality."
+    },
+    "reviewed_evidence_sha256": "a9360732973db59b4dd9e68bcde9765336c8034337e2650568b9c7e8acf9c1da"
+  },
+  "NVDA:nvidiagsyncpulsar": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Gaming display technology designed to improve motion clarity."
+    },
+    "reviewed_evidence_sha256": "db0a7409c34bf4a46fa6157089762d22aeeef012cc72d64eb3146190043b0979"
+  },
+  "NVDA:nvidiartxpro500072gbblackwellgpu": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "GPU with 72GB memory for larger AI models and agentic workflows."
+    },
+    "reviewed_evidence_sha256": "9972e40bac3c9d6b0e2c30b5d797bbc92dafeb2d30e9ce9d5dbfc050417d1e0b"
+  },
+  "NVDA:nvidiaalpamayofamilyofopenaimodels": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Open AI models, simulation tools and datasets for reasoning-based autonomous vehicle development."
+    },
+    "reviewed_evidence_sha256": "0344d6c03d7ce02e86e67a67577b55ccfe2b0f91bc91b245b048ef4024c6c64c"
+  },
+  "NVDA:nvidiarubinplatform": {
+    "accept": false,
+    "reason": "Umbrella platform comprising new chips; avoid overlap with separately retained named components.",
+    "reviewed_evidence_sha256": "6ca00d9ad79af38ea79eb7b35146fa09c86ec3d71f9db98808a602842f5d6123"
+  },
+  "NVDA:nvidiacosmosandnvidiaisaacgr00topenmodels": {
+    "accept": false,
+    "reason": "Combined existing family names with unspecified new models, rather than distinct named releases.",
+    "reviewed_evidence_sha256": "bda85d1f35452efc4b7f6c43b20640b4d56640a6c5f6494ff39c0d0a948b5cab"
+  },
+  "NVDA:blackwell": {
+    "accept": false,
+    "reason": "Existing-product demand and revenue commentary.",
+    "reviewed_evidence_sha256": "f1fa28c44b713e45d22ff9672cd98b5bd042b2e12024c6f68f7e4715f6d9bd62"
+  },
+  "NVDA:nvlinkcomputefabric": {
+    "accept": false,
+    "reason": "Revenue and continued ramp of existing fabric; no distinct new version named.",
+    "reviewed_evidence_sha256": "d24b537cb33e37fe3785850e420fca14db865f9e322b630cb00dacca2e56d406"
+  },
+  "NVDA:gb200": {
+    "accept": false,
+    "reason": "Systems mentioned as existing use cases in revenue commentary, not launched.",
+    "reviewed_evidence_sha256": "d24b537cb33e37fe3785850e420fca14db865f9e322b630cb00dacca2e56d406"
+  },
+  "NVDA:gb300": {
+    "accept": false,
+    "reason": "Systems mentioned as existing use cases in revenue commentary, not launched.",
+    "reviewed_evidence_sha256": "d24b537cb33e37fe3785850e420fca14db865f9e322b630cb00dacca2e56d406"
+  },
+  "AMD:amdinstinctmi440xgpu": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "GPU announced for enterprise AI.",
+      "new_product": "AMD Instinct MI440X"
+    },
+    "reviewed_evidence_sha256": "7071f64ae990fccff182ff28047679e82e9e940f6cac1a80d7a980749a97ded3"
+  },
+  "AMD:amdinstinctmi440x": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "GPU unveiled for enterprise AI."
+    },
+    "reviewed_evidence_sha256": "fe4c3a5d4c729d95aee8a13c50300b6f8bbd31df0b80962c07b460c3f6e2ab2b"
+  },
+  "AMD:amdryzenaihalodeveloperplatform": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI developer platform for running models locally.",
+      "new_product": "Ryzen AI Halo"
+    },
+    "reviewed_evidence_sha256": "f0c2d47362323244909b7e17bd3d2bcebc10aac3a59c919ee2c1f4b830212e93"
+  },
+  "AMD:ryzenaihaloplatform": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Compact AI developer platform supporting local models of up to 200 billion parameters.",
+      "new_product": "Ryzen AI Halo"
+    },
+    "reviewed_evidence_sha256": "4d3511f27213d737e22051eeb08af0efaae244b856336179734eacfede086423"
+  },
+  "AMD:amdversalrfseries": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Space-grade adaptive SoCs for extreme space environments."
+    },
+    "reviewed_evidence_sha256": "16b28f24a56f542e3905e235527460d90112ecc8d2eb7d88f785aeed1deeee60"
+  },
+  "AMD:amdepycembedded2005seriesprocessors": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Embedded processors for networking, storage and industrial applications.",
+      "new_product": "AMD EPYC Embedded 2005 Series"
+    },
+    "reviewed_evidence_sha256": "5a95ba9c86858d41f52c2ff796800ce0c4ce82ec54ea94973c2a7f42e02826f6"
+  },
+  "AMD:amdepycembedded2005series": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Embedded processors for networking security and industrial-edge applications."
+    },
+    "reviewed_evidence_sha256": "ac2c20d68e1577de31920e7e51d206ea1265a3e455c9852acf534d6ba7762737"
+  },
+  "AMD:ryzen79850x3d": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Gaming processor using Zen 5 architecture and AMD 3D V-Cache."
+    },
+    "reviewed_evidence_sha256": "fb5af3eacce048e7901633951fd937fb23dbf6810fcd17eb4779536f7fe31efc"
+  },
+  "AMD:amdfsrredstone": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Machine-learning graphics suite including upscaling, frame generation, ray regeneration and radiance caching.",
+      "new_product": "FSR Redstone"
+    },
+    "reviewed_evidence_sha256": "1d94ec19e06d8ee71115f83b7af8af842ac0feadb726ec856b7051cdcef413d9"
+  },
+  "AMD:fsrredstone": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "AI-powered upscaling technology for AMD Radeon graphics cards."
+    },
+    "reviewed_evidence_sha256": "4d3511f27213d737e22051eeb08af0efaae244b856336179734eacfede086423"
+  },
+  "AMD:amdhelios": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "Rack-scale AI platform previewed at CES."
+    },
+    "reviewed_evidence_sha256": "fe4c3a5d4c729d95aee8a13c50300b6f8bbd31df0b80962c07b460c3f6e2ab2b"
+  },
+  "AMD:ryzenai400": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "New client computing platform in the Ryzen AI 400 Series."
+    },
+    "reviewed_evidence_sha256": "4d3511f27213d737e22051eeb08af0efaae244b856336179734eacfede086423"
+  },
+  "AMD:ryzenaimax392": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "New Ryzen AI Max+ client processor model."
+    },
+    "reviewed_evidence_sha256": "4d3511f27213d737e22051eeb08af0efaae244b856336179734eacfede086423"
+  },
+  "AMD:ryzenaimax388": {
+    "accept": true,
+    "reason": "Source passage explicitly supports the named introduction, release or new availability; description checked against the passage.",
+    "corrections": {
+      "product_description": "New Ryzen AI Max+ client processor model."
+    },
+    "reviewed_evidence_sha256": "4d3511f27213d737e22051eeb08af0efaae244b856336179734eacfede086423"
+  },
+  "AMD:amdryzenaiembeddedprocessorportfolio": {
+    "accept": false,
+    "reason": "Generic portfolio umbrella; individually named embedded models are retained instead.",
+    "reviewed_evidence_sha256": "2a47cdf090913a936343d41dd0cec33acd2cb4fbffd4f74a46239c2b626374de"
+  },
+  "AMD:amdinstinctmi430x": {
+    "accept": false,
+    "reason": "Existing product mentioned for HPE adoption; no introduction in this passage.",
+    "reviewed_evidence_sha256": "fe4c3a5d4c729d95aee8a13c50300b6f8bbd31df0b80962c07b460c3f6e2ab2b"
+  },
+  "HPE:cloudai": {
+    "accept": false,
+    "reason": "Financial reporting segment created by an organizational change, not an operating product.",
+    "reviewed_evidence_sha256": "e68feb456cd047b2d924d8a23b12aceb71409b6a91c0ff2e53e50ffe80d46ab9"
+  },
+  "ANET:clusterloadbalancingclb": {
+    "accept": false,
+    "reason": "Named capability inside EOS rather than a distinct operating product or named version.",
+    "reviewed_evidence_sha256": "a0590b964cde97949b9da93cea3ac9eba276d1818b87019ed9ab22fdf9c9d491"
+  },
+  "ANET:aristacloudvisionuniversalnetworkobservabilitycvuno": {
+    "accept": false,
+    "reason": "Existing observability product gains AI job-centric features; no distinct new version named.",
+    "reviewed_evidence_sha256": "a0590b964cde97949b9da93cea3ac9eba276d1818b87019ed9ab22fdf9c9d491"
+  }
+}

@@ -1,0 +1,2402 @@
+[
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-09-03T12:03:56.000Z",
+    "accession": "0001045810-26-000078",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/",
+    "primary": "nvda-20260902.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-11-03T21:16:27.000Z",
+    "accession": "0000002488-26-000188",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/",
+    "primary": "amd-20261103.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-11-02T21:30:23.000Z",
+    "accession": "0000320193-26-000024",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/",
+    "primary": "aapl-20261102.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-10-29T20:08:53.000Z",
+    "accession": "0000050863-26-000188",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000188/",
+    "primary": "intc-20261029.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2026-09-08T13:00:20.000Z",
+    "accession": "0001104659-26-105718",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000110465926105718/",
+    "primary": "tm2623289d1_8k.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-10-09T20:08:49.000Z",
+    "accession": "0000858877-26-000156",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000156/",
+    "primary": "csco-20261007.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2026-09-21T10:08:34.000Z",
+    "accession": "0001140361-26-037170",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000114036126037170/",
+    "primary": "ef20082499_form8k.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-09-30T11:49:26.000Z",
+    "accession": "0001645590-26-000084",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000084/",
+    "primary": "hpe-20260930.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-10-21T20:37:17.000Z",
+    "accession": "0001193125-26-427920",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526427920/",
+    "primary": "d163575d8k.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-10-20T13:16:53.000Z",
+    "accession": "0001193125-26-425881",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526425881/",
+    "primary": "d516983d8k.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-10-28T18:24:44.000Z",
+    "accession": "0001193125-26-435853",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526435853/",
+    "primary": "d75538d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-09-10T20:06:14.000Z",
+    "accession": "0000796343-26-000147",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000147/",
+    "primary": "adbe-20260910.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-10-21T20:19:17.000Z",
+    "accession": "0000051143-26-000093",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000093/",
+    "primary": "ibm-20261021.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-10-27T20:23:36.000Z",
+    "accession": "0001193125-26-434271",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526434271/",
+    "primary": "d148323d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2026-09-30T20:02:22.000Z",
+    "accession": "0000723125-26-000018",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000018/",
+    "primary": "mu-20260930.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-10-21T20:04:14.000Z",
+    "accession": "0000097476-26-000165",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000165/",
+    "primary": "txn-20261021.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-09-17T20:15:18.000Z",
+    "accession": "0001193125-26-394361",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000119312526394361/",
+    "primary": "d175690d8k.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-10-28T20:14:14.000Z",
+    "accession": "0001373715-26-000092",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/",
+    "primary": "erq3fy26-8xk.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-09-01T20:32:15.000Z",
+    "accession": "0001327567-26-000019",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000019/",
+    "primary": "panw-20260901.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2026-11-03T21:10:17.000Z",
+    "accession": "0001596532-26-000252",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000252/",
+    "primary": "anet-20261103.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-08-26T20:21:19.000Z",
+    "accession": "0001045810-26-000073",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/",
+    "primary": "nvda-20260826.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-09-28T20:16:47.000Z",
+    "accession": "0000002488-26-000182",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000182/",
+    "primary": "amd-20260926.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-07-30T20:30:28.000Z",
+    "accession": "0000320193-26-000018",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/",
+    "primary": "aapl-20260730.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-08-12T20:05:07.000Z",
+    "accession": "0001193125-26-346806",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000119312526346806/",
+    "primary": "d117670d8k.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2026-07-31T20:20:22.000Z",
+    "accession": "0001104659-26-089234",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000110465926089234/",
+    "primary": "tm2621612d2_8k.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-08-12T20:07:06.000Z",
+    "accession": "0000858877-26-000106",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000106/",
+    "primary": "csco-20260812.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2026-08-26T20:17:31.000Z",
+    "accession": "0000047217-26-000048",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000048/",
+    "primary": "hpq-20260826.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-09-02T20:06:52.000Z",
+    "accession": "0001645590-26-000078",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000078/",
+    "primary": "hpe-20260902.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-09-15T20:26:45.000Z",
+    "accession": "0001193125-26-391976",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526391976/",
+    "primary": "d172674d8k.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-09-17T01:02:48.000Z",
+    "accession": "0001108524-26-000210",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000210/",
+    "primary": "crm-20260916.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-09-14T10:01:59.000Z",
+    "accession": "0001193125-26-389753",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389753/",
+    "primary": "d20034d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-09-08T20:38:46.000Z",
+    "accession": "0000796343-26-000144",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000144/",
+    "primary": "adbe-20260902.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-10-01T20:18:19.000Z",
+    "accession": "0000051143-26-000086",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000086/",
+    "primary": "ibm-20261001.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-09-02T20:26:04.000Z",
+    "accession": "0001730168-26-000076",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/",
+    "primary": "avgo-20260902.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2026-08-26T12:06:55.000Z",
+    "accession": "0001104659-26-101067",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465926101067/",
+    "primary": "tm2624017d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-09-17T20:11:46.000Z",
+    "accession": "0000950103-26-014118",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000095010326014118/",
+    "primary": "dp253473_8k.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-09-09T12:19:11.000Z",
+    "accession": "0001193125-26-385938",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000119312526385938/",
+    "primary": "d924057d8k.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-07-22T20:11:27.000Z",
+    "accession": "0001373715-26-000072",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000072/",
+    "primary": "now-20260722.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-08-21T20:15:18.000Z",
+    "accession": "0001193125-26-361122",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312526361122/",
+    "primary": "d180372d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2026-08-04T20:06:44.000Z",
+    "accession": "0001596532-26-000174",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000174/",
+    "primary": "anet-20260804.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-08-17T12:41:33.000Z",
+    "accession": "0001045810-26-000069",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/",
+    "primary": "nvda-20260817.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-08-19T20:16:56.000Z",
+    "accession": "0000002488-26-000163",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000163/",
+    "primary": "amd-20260817.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-04-30T20:30:41.000Z",
+    "accession": "0000320193-26-000011",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000011/",
+    "primary": "aapl-20260430.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-07-23T20:09:00.000Z",
+    "accession": "0000050863-26-000155",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000155/",
+    "primary": "intc-20260723.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2026-07-29T20:01:35.000Z",
+    "accession": "0000804328-26-000085",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000085/",
+    "primary": "qcom-20260729.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-05-13T20:06:53.000Z",
+    "accession": "0000858877-26-000075",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000075/",
+    "primary": "csco-20260513.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2026-06-26T20:23:57.000Z",
+    "accession": "0000047217-26-000041",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000041/",
+    "primary": "hpq-20260624.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-08-04T20:15:38.000Z",
+    "accession": "0001645590-26-000074",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000074/",
+    "primary": "hpe-20260804.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-09-10T20:39:27.000Z",
+    "accession": "0001193125-26-387958",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526387958/",
+    "primary": "d150030d8k.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-09-04T20:05:24.000Z",
+    "accession": "0001108524-26-000197",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000197/",
+    "primary": "crm-20260902.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-09-10T20:16:50.000Z",
+    "accession": "0001193125-26-387905",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/",
+    "primary": "orcl-20260910.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-07-17T20:14:16.000Z",
+    "accession": "0000796343-26-000120",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000120/",
+    "primary": "adbe-20260714.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-08-14T20:05:21.000Z",
+    "accession": "0001104659-26-097089",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000110465926097089/",
+    "primary": "tm2623193d1_8k.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-07-06T12:00:19.000Z",
+    "accession": "0001193125-26-295589",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526295589/",
+    "primary": "d84378d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2026-06-24T20:02:01.000Z",
+    "accession": "0000723125-26-000013",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000013/",
+    "primary": "mu-20260624.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-07-22T20:04:06.000Z",
+    "accession": "0000097476-26-000148",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000148/",
+    "primary": "txn-20260722.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-08-19T11:03:13.000Z",
+    "accession": "0000006281-26-000072",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000072/",
+    "primary": "adi-20260819.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-05-22T20:41:19.000Z",
+    "accession": "0001373715-26-000065",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000065/",
+    "primary": "now-20260521.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-06-02T20:08:29.000Z",
+    "accession": "0001327567-26-000012",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000012/",
+    "primary": "panw-20260602.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2026-06-02T20:06:06.000Z",
+    "accession": "0001596532-26-000118",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000118/",
+    "primary": "anet-20260529.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-07-02T13:23:16.000Z",
+    "accession": "0001045810-26-000060",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000060/",
+    "primary": "nvda-20260628.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-08-17T20:05:40.000Z",
+    "accession": "0001193125-26-354029",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000119312526354029/",
+    "primary": "d142696d8k.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-04-20T21:29:51.000Z",
+    "accession": "0001140361-26-015711",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036126015711/",
+    "primary": "ef20071035_8k.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-05-15T20:13:15.000Z",
+    "accession": "0000050863-26-000118",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000118/",
+    "primary": "intc-20260513.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2026-06-24T12:10:32.000Z",
+    "accession": "0001104659-26-077071",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000110465926077071/",
+    "primary": "tm2618522d1_8k.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-05-01T20:05:06.000Z",
+    "accession": "0000858877-26-000057",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000057/",
+    "primary": "csco-20260427.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2026-05-27T20:17:25.000Z",
+    "accession": "0000047217-26-000027",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000027/",
+    "primary": "hpq-20260527.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-07-24T11:47:39.000Z",
+    "accession": "0001645590-26-000072",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000072/",
+    "primary": "hpe-20260724.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-09-01T20:10:14.000Z",
+    "accession": "0001571996-26-000039",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000039/",
+    "primary": "dell-20260901.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-08-26T20:03:53.000Z",
+    "accession": "0001108524-26-000187",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000187/",
+    "primary": "crm-20260826.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-06-10T20:13:46.000Z",
+    "accession": "0001193125-26-265848",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526265848/",
+    "primary": "orcl-20260610.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-06-11T20:08:53.000Z",
+    "accession": "0000796343-26-000109",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000109/",
+    "primary": "adbe-20260608.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-07-22T20:10:24.000Z",
+    "accession": "0000051143-26-000077",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000077/",
+    "primary": "ibm-20260722.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-06-18T13:00:28.000Z",
+    "accession": "0001193125-26-275077",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526275077/",
+    "primary": "d149683d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2026-06-09T20:13:47.000Z",
+    "accession": "0001104659-26-071845",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465926071845/",
+    "primary": "tm2617112d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-06-02T20:16:52.000Z",
+    "accession": "0000950103-26-008325",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000095010326008325/",
+    "primary": "dp247795_8k.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-07-29T21:15:35.000Z",
+    "accession": "0001193125-26-324223",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000119312526324223/",
+    "primary": "d158253d8k.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-05-15T20:05:53.000Z",
+    "accession": "0001193125-26-226644",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000119312526226644/",
+    "primary": "d60522d8k.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-04-11T01:00:48.000Z",
+    "accession": "0001193125-26-151637",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312526151637/",
+    "primary": "d49517d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2026-05-05T20:06:48.000Z",
+    "accession": "0001596532-26-000074",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000074/",
+    "primary": "anet-20260505.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-06-30T20:27:26.000Z",
+    "accession": "0001045810-26-000056",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000056/",
+    "primary": "nvda-20260624.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-08-04T20:16:24.000Z",
+    "accession": "0000002488-26-000121",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/",
+    "primary": "amd-20260804.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-02-24T21:55:58.000Z",
+    "accession": "0001140361-26-006577",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/",
+    "primary": "ef20060722_8k.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-30T21:16:06.000Z",
+    "accession": "0001193125-26-197845",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000119312526197845/",
+    "primary": "d143782d8k.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2026-04-29T20:02:20.000Z",
+    "accession": "0000804328-26-000060",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000060/",
+    "primary": "qcom-20260429.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-04-06T20:29:18.000Z",
+    "accession": "0000858877-26-000048",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000048/",
+    "primary": "csco-20260331.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2026-04-21T21:07:21.000Z",
+    "accession": "0000047217-26-000019",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000019/",
+    "primary": "hpq-20260416.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-06-01T20:09:22.000Z",
+    "accession": "0001645590-26-000052",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000052/",
+    "primary": "hpe-20260601.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-07-06T20:22:22.000Z",
+    "accession": "0001193125-26-296224",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526296224/",
+    "primary": "d32716d8k.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-08-05T20:36:56.000Z",
+    "accession": "0001108524-26-000160",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000160/",
+    "primary": "crm-20260805.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-05-12T20:50:49.000Z",
+    "accession": "0001193125-26-219708",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526219708/",
+    "primary": "d76569d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-04-21T20:07:57.000Z",
+    "accession": "0000796343-26-000101",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000101/",
+    "primary": "adbe-20260415.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-07-14T11:01:52.000Z",
+    "accession": "0000051143-26-000070",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/",
+    "primary": "ibm-20260714.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-06-11T13:07:29.000Z",
+    "accession": "0001193125-26-266777",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526266777/",
+    "primary": "d152717d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2026-04-01T12:33:36.000Z",
+    "accession": "0001104659-26-038249",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465926038249/",
+    "primary": "tm2610810d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-04-22T20:03:59.000Z",
+    "accession": "0000097476-26-000097",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000097/",
+    "primary": "txn-20260422.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-07-02T20:05:43.000Z",
+    "accession": "0001193125-26-294488",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000119312526294488/",
+    "primary": "d112344d8k.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-04-22T20:49:29.000Z",
+    "accession": "0001373715-26-000054",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000054/",
+    "primary": "now-20260417.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-03-23T20:10:27.000Z",
+    "accession": "0001193125-26-119729",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312526119729/",
+    "primary": "d84927d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2026-02-12T21:07:57.000Z",
+    "accession": "0001596532-26-000010",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000010/",
+    "primary": "anet-20260212.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-06-18T20:00:24.000Z",
+    "accession": "0001193125-26-275783",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000119312526275783/",
+    "primary": "d48176d8k.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-07-01T20:27:26.000Z",
+    "accession": "0000002488-26-000115",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000115/",
+    "primary": "amd-20260626.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-01-29T21:30:33.000Z",
+    "accession": "0000320193-26-000005",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000005/",
+    "primary": "aapl-20260129.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-24T20:15:20.000Z",
+    "accession": "0000050863-26-000083",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000083/",
+    "primary": "intc-20260424.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2026-03-19T20:03:13.000Z",
+    "accession": "0000804328-26-000041",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000041/",
+    "primary": "qcom-20260317.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2026-02-11T21:07:20.000Z",
+    "accession": "0000858877-26-000006",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000006/",
+    "primary": "csco-20260211.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2026-02-24T21:18:40.000Z",
+    "accession": "0000047217-26-000009",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000009/",
+    "primary": "hpq-20260224.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-05-14T11:28:34.000Z",
+    "accession": "0001645590-26-000045",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000045/",
+    "primary": "hpe-20260513.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-07-01T10:47:07.000Z",
+    "accession": "0001571996-26-000036",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000036/",
+    "primary": "dell-20260625.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-06-02T20:15:12.000Z",
+    "accession": "0001108524-26-000138",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000138/",
+    "primary": "crm-20260527.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-04-06T12:12:11.000Z",
+    "accession": "0001193125-26-142939",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526142939/",
+    "primary": "d132760d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-03-12T20:09:23.000Z",
+    "accession": "0000796343-26-000048",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000048/",
+    "primary": "adbe-20260309.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-06-23T20:18:27.000Z",
+    "accession": "0000051143-26-000061",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000061/",
+    "primary": "ibm-20260622.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-06-03T20:21:35.000Z",
+    "accession": "0001730168-26-000051",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000051/",
+    "primary": "avgo-20260603.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2026-03-25T12:26:22.000Z",
+    "accession": "0001104659-26-034174",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465926034174/",
+    "primary": "tm269755d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-04-17T21:03:16.000Z",
+    "accession": "0000097476-26-000094",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000094/",
+    "primary": "txn-20260416.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-05-20T11:01:45.000Z",
+    "accession": "0000006281-26-000050",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000050/",
+    "primary": "adi-20260520.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-04-01T20:14:42.000Z",
+    "accession": "0001373715-26-000030",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000030/",
+    "primary": "now-20260401.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-03-11T20:10:23.000Z",
+    "accession": "0001327567-26-000009",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000009/",
+    "primary": "panw-20260310.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2025-11-04T21:08:44.000Z",
+    "accession": "0001596532-25-000284",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000284/",
+    "primary": "anet-20251104.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-05-20T20:21:19.000Z",
+    "accession": "0001045810-26-000051",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000051/",
+    "primary": "nvda-20260520.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-05-15T20:12:53.000Z",
+    "accession": "0001193125-26-226746",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000119312526226746/",
+    "primary": "d118163d8k.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2026-01-02T21:30:52.000Z",
+    "accession": "0001140361-26-000199",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036126000199/",
+    "primary": "ef20060722_8k.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-23T20:07:02.000Z",
+    "accession": "0000050863-26-000077",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000077/",
+    "primary": "intc-20260423.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2026-02-04T21:00:59.000Z",
+    "accession": "0000804328-26-000016",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000016/",
+    "primary": "qcom-20260204.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-12-17T21:42:08.000Z",
+    "accession": "0000858877-25-000199",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000199/",
+    "primary": "csco-20251216.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2026-02-03T22:15:53.000Z",
+    "accession": "0001140361-26-003514",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000114036126003514/",
+    "primary": "ef20064653_8k.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-05-04T20:05:14.000Z",
+    "accession": "0001645590-26-000040",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000040/",
+    "primary": "hpe-20260504.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-06-17T20:18:29.000Z",
+    "accession": "0001571996-26-000032",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000032/",
+    "primary": "dell-20260611.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-06-01T20:43:09.000Z",
+    "accession": "0001108524-26-000131",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000131/",
+    "primary": "crm-20260528.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-03-10T20:12:51.000Z",
+    "accession": "0001193125-26-100148",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526100148/",
+    "primary": "orcl-20260310.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2026-01-27T22:04:38.000Z",
+    "accession": "0000796343-26-000019",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000019/",
+    "primary": "adbe-20260126.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-05-28T10:49:17.000Z",
+    "accession": "0000051143-26-000047",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000047/",
+    "primary": "ibm-20260528.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-04-21T20:37:02.000Z",
+    "accession": "0001730168-26-000039",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000039/",
+    "primary": "avgo-20260420.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2026-03-18T20:02:14.000Z",
+    "accession": "0000723125-26-000004",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000004/",
+    "primary": "mu-20260318.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-03-25T20:01:05.000Z",
+    "accession": "0001193125-26-124057",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000119312526124057/",
+    "primary": "d136885d8k.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-05-19T20:05:16.000Z",
+    "accession": "0000006281-26-000048",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000048/",
+    "primary": "adi-20260519.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-02-17T14:02:26.000Z",
+    "accession": "0001373715-26-000014",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000014/",
+    "primary": "now-20260213.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-02-17T21:14:09.000Z",
+    "accession": "0001327567-26-000003",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000003/",
+    "primary": "panw-20260217.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2025-09-08T20:03:42.000Z",
+    "accession": "0001596532-25-000258",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000258/",
+    "primary": "anet-20250905.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-05-08T20:35:07.000Z",
+    "accession": "0001045810-26-000028",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000028/",
+    "primary": "nvda-20260507.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-05-05T20:16:06.000Z",
+    "accession": "0000002488-26-000072",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000072/",
+    "primary": "amd-20260505.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-12-05T21:31:42.000Z",
+    "accession": "0001140361-25-044561",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036125044561/",
+    "primary": "ef20060722_8k.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-08T20:05:34.000Z",
+    "accession": "0000050863-26-000072",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000072/",
+    "primary": "intc-20260408.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2026-01-16T21:02:23.000Z",
+    "accession": "0000804328-26-000008",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000008/",
+    "primary": "qcom-20260113.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-11-12T21:15:30.000Z",
+    "accession": "0001193125-25-277624",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000119312525277624/",
+    "primary": "d484663d8k.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2025-11-25T21:17:31.000Z",
+    "accession": "0000047217-25-000068",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000068/",
+    "primary": "hpq-20251125.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-04-03T13:50:38.000Z",
+    "accession": "0001645590-26-000036",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000036/",
+    "primary": "hpe-20260401.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-06-16T20:36:39.000Z",
+    "accession": "0001193125-26-272720",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526272720/",
+    "primary": "d20600d8k.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-05-27T20:18:26.000Z",
+    "accession": "0001108524-26-000125",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000125/",
+    "primary": "crm-20260527.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-02-05T21:01:31.000Z",
+    "accession": "0001193125-26-039344",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526039344/",
+    "primary": "d63638d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-12-10T21:05:55.000Z",
+    "accession": "0000796343-25-000135",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/",
+    "primary": "adbe-20251210.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-05-01T20:18:17.000Z",
+    "accession": "0000051143-26-000043",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000043/",
+    "primary": "ibm-20260428.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-04-06T21:22:08.000Z",
+    "accession": "0001193125-26-144028",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/",
+    "primary": "d87999d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2026-01-21T21:05:37.000Z",
+    "accession": "0001104659-26-005366",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465926005366/",
+    "primary": "tm263707d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-02-06T12:30:17.000Z",
+    "accession": "0001193125-26-040312",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000119312526040312/",
+    "primary": "d937106d8k.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-03-12T20:30:13.000Z",
+    "accession": "0000006281-26-000022",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000022/",
+    "primary": "adi-20260311.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-02-11T14:07:36.000Z",
+    "accession": "0001373715-26-000012",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000012/",
+    "primary": "now-20260210.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-02-11T13:18:31.000Z",
+    "accession": "0001193125-26-045600",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312526045600/",
+    "primary": "d40626d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2025-08-05T20:09:13.000Z",
+    "accession": "0001596532-25-000214",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000214/",
+    "primary": "anet-20250805.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-04-27T20:10:30.000Z",
+    "accession": "0001045810-26-000026",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000026/",
+    "primary": "nvda-20260424.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-02-24T12:01:06.000Z",
+    "accession": "0000002488-26-000045",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000045/",
+    "primary": "amd-20260223.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-10-30T20:30:35.000Z",
+    "accession": "0000320193-25-000077",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000077/",
+    "primary": "aapl-20251030.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-04-03T16:50:37.000Z",
+    "accession": "0000050863-26-000069",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000069/",
+    "primary": "intc-20260330.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2025-12-16T22:22:18.000Z",
+    "accession": "0000804328-25-000098",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000098/",
+    "primary": "qcom-20251210.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-10-17T20:13:47.000Z",
+    "accession": "0000858877-25-000145",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000145/",
+    "primary": "csco-20251015.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2025-10-01T15:01:28.000Z",
+    "accession": "0001140361-25-036906",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000114036125036906/",
+    "primary": "ef20056232_8k.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-03-23T20:18:31.000Z",
+    "accession": "0001140361-26-010765",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000114036126010765/",
+    "primary": "ef20068405_8k.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-06-12T20:45:04.000Z",
+    "accession": "0001193125-26-269594",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526269594/",
+    "primary": "d131151d8k.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-03-16T13:13:09.000Z",
+    "accession": "0001193125-26-107403",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526107403/",
+    "primary": "d887663d8k.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-02-04T22:20:31.000Z",
+    "accession": "0001193125-26-037840",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526037840/",
+    "primary": "d23732d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-09-11T20:06:22.000Z",
+    "accession": "0000796343-25-000102",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000102/",
+    "primary": "adbe-20250911.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-04-22T20:10:35.000Z",
+    "accession": "0000051143-26-000036",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000036/",
+    "primary": "ibm-20260422.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-04-02T21:25:00.000Z",
+    "accession": "0001193125-26-140574",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526140574/",
+    "primary": "d109450d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2025-12-17T21:03:26.000Z",
+    "accession": "0000723125-25-000044",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000044/",
+    "primary": "mu-20251217.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-02-04T12:30:56.000Z",
+    "accession": "0001193125-26-036727",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000119312526036727/",
+    "primary": "d100130d8k.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-02-18T12:02:27.000Z",
+    "accession": "0000006281-26-000015",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000015/",
+    "primary": "adi-20260217.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2026-01-28T21:11:25.000Z",
+    "accession": "0001373715-26-000005",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000005/",
+    "primary": "now-20260128.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2026-01-29T21:33:45.000Z",
+    "accession": "0001193125-26-029489",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312526029489/",
+    "primary": "d884183d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2025-06-16T21:06:46.000Z",
+    "accession": "0001596532-25-000170",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000170/",
+    "primary": "anet-20250613.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-03-06T21:11:25.000Z",
+    "accession": "0001045810-26-000024",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000024/",
+    "primary": "nvda-20260302.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-02-17T21:21:24.000Z",
+    "accession": "0000002488-26-000029",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000029/",
+    "primary": "amd-20260210.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-07-31T20:30:25.000Z",
+    "accession": "0000320193-25-000071",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000071/",
+    "primary": "aapl-20250731.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-03-03T21:06:00.000Z",
+    "accession": "0000050863-26-000044",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000044/",
+    "primary": "intc-20260227.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2025-12-10T21:15:25.000Z",
+    "accession": "0000804328-25-000096",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000096/",
+    "primary": "qcom-20251209.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-08-25T20:27:47.000Z",
+    "accession": "0000858877-25-000103",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000103/",
+    "primary": "csco-20250821.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2025-08-27T20:06:39.000Z",
+    "accession": "0000047217-25-000060",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000060/",
+    "primary": "hpq-20250827.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-03-18T20:40:49.000Z",
+    "accession": "0001140361-26-010222",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000114036126010222/",
+    "primary": "ef20068126_8k.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-06-10T20:19:53.000Z",
+    "accession": "0001193125-26-265877",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526265877/",
+    "primary": "d98058d8k.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-03-13T20:59:32.000Z",
+    "accession": "0001193125-26-106356",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526106356/",
+    "primary": "d114728d8k.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2026-01-09T21:31:11.000Z",
+    "accession": "0001193125-26-009002",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526009002/",
+    "primary": "d34442d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-06-12T20:19:20.000Z",
+    "accession": "0000796343-25-000064",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000064/",
+    "primary": "adbe-20250612.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-03-03T21:19:31.000Z",
+    "accession": "0000051143-26-000015",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000015/",
+    "primary": "ibm-20260301.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-03-04T21:16:10.000Z",
+    "accession": "0001730168-26-000011",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000011/",
+    "primary": "avgo-20260304.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2025-10-21T20:09:06.000Z",
+    "accession": "0001104659-25-101237",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465925101237/",
+    "primary": "tm2529116d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2026-01-27T21:05:34.000Z",
+    "accession": "0000097476-26-000003",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000003/",
+    "primary": "txn-20260127.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2026-01-23T12:05:32.000Z",
+    "accession": "0000006281-26-000008",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000008/",
+    "primary": "adi-20260120.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2025-12-23T22:12:27.000Z",
+    "accession": "0001373715-25-000335",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000335/",
+    "primary": "now-20251223.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2025-12-11T21:05:45.000Z",
+    "accession": "0001193125-25-315915",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312525315915/",
+    "primary": "d15273d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2025-06-03T21:12:01.000Z",
+    "accession": "0001596532-25-000148",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000148/",
+    "primary": "anet-20250530.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-02-25T21:31:25.000Z",
+    "accession": "0001045810-26-000019",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000019/",
+    "primary": "nvda-20260225.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-02-03T21:16:18.000Z",
+    "accession": "0000002488-26-000014",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000014/",
+    "primary": "amd-20260203.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-07-25T20:30:49.000Z",
+    "accession": "0001140361-25-027340",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036125027340/",
+    "primary": "ef20052355_8k.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-01-23T22:13:24.000Z",
+    "accession": "0000050863-26-000031",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000031/",
+    "primary": "intc-20260123.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2025-11-05T21:01:12.000Z",
+    "accession": "0000804328-25-000084",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000084/",
+    "primary": "qcom-20251105.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-08-13T20:11:01.000Z",
+    "accession": "0001193125-25-179820",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000119312525179820/",
+    "primary": "d901470d8k.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2025-06-25T20:30:21.000Z",
+    "accession": "0001140361-25-023655",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000114036125023655/",
+    "primary": "ef20050909_8k.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-03-09T20:08:13.000Z",
+    "accession": "0001645590-26-000028",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000028/",
+    "primary": "hpe-20260309.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-05-28T20:15:39.000Z",
+    "accession": "0001571996-26-000021",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000021/",
+    "primary": "dell-20260528.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-03-12T20:32:21.000Z",
+    "accession": "0001193125-26-104282",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000119312526104282/",
+    "primary": "d887348d8k.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2025-12-10T21:14:38.000Z",
+    "accession": "0001193125-25-314207",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/",
+    "primary": "orcl-20251210.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-04-24T20:06:22.000Z",
+    "accession": "0001628280-25-019665",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000162828025019665/",
+    "primary": "adbe-20250422.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-02-02T22:25:19.000Z",
+    "accession": "0001104659-26-009343",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000110465926009343/",
+    "primary": "tm264790d2_8k.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-03-02T22:00:50.000Z",
+    "accession": "0001193125-26-085656",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085656/",
+    "primary": "d305325d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2025-09-23T20:02:28.000Z",
+    "accession": "0000723125-25-000024",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000024/",
+    "primary": "mu-20250923.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2025-10-21T20:05:00.000Z",
+    "accession": "0000097476-25-000056",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000009747625000056/",
+    "primary": "txn-20251021.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2025-11-25T12:03:07.000Z",
+    "accession": "0000006281-25-000151",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000151/",
+    "primary": "adi-20251125.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2025-12-15T21:20:40.000Z",
+    "accession": "0001373715-25-000329",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000329/",
+    "primary": "now-20251215.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2025-11-21T21:05:14.000Z",
+    "accession": "0001193125-25-291350",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312525291350/",
+    "primary": "d882056d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2025-05-06T20:07:47.000Z",
+    "accession": "0001596532-25-000103",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000103/",
+    "primary": "anet-20250501.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2026-01-23T22:01:33.000Z",
+    "accession": "0001045810-26-000003",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000003/",
+    "primary": "nvda-20260120.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2026-01-20T21:19:32.000Z",
+    "accession": "0000002488-26-000002",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000002/",
+    "primary": "amd-20260116.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-07-09T01:18:13.000Z",
+    "accession": "0001140361-25-025275",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036125025275/",
+    "primary": "ef20051741_8k.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2026-01-22T21:10:56.000Z",
+    "accession": "0000050863-26-000009",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000009/",
+    "primary": "intc-20260122.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2025-09-02T20:06:34.000Z",
+    "accession": "0000804328-25-000054",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000054/",
+    "primary": "qcom-20250902.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-06-09T20:45:23.000Z",
+    "accession": "0000858877-25-000046",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000046/",
+    "primary": "csco-20250605.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2025-05-28T20:18:16.000Z",
+    "accession": "0000047217-25-000041",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000041/",
+    "primary": "hpq-20250528.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-02-06T21:09:56.000Z",
+    "accession": "0001645590-26-000010",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000010/",
+    "primary": "hpe-20260203.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-04-20T20:20:27.000Z",
+    "accession": "0001571996-26-000013",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000013/",
+    "primary": "dell-20260415.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-03-06T21:15:12.000Z",
+    "accession": "0001108524-26-000062",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000062/",
+    "primary": "crm-20260306.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2025-11-21T21:26:49.000Z",
+    "accession": "0001193125-25-291441",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525291441/",
+    "primary": "d43173d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-03-12T20:06:35.000Z",
+    "accession": "0000796343-25-000052",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000052/",
+    "primary": "adbe-20250312.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-01-30T21:32:05.000Z",
+    "accession": "0000051143-26-000006",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000006/",
+    "primary": "ibm-20260127.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2026-01-13T21:06:00.000Z",
+    "accession": "0001193125-26-011731",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526011731/",
+    "primary": "d104560d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2025-08-11T12:05:18.000Z",
+    "accession": "0001104659-25-075940",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465925075940/",
+    "primary": "tm2522933d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2025-10-16T20:17:05.000Z",
+    "accession": "0000950103-25-013275",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000095010325013275/",
+    "primary": "dp235861_8k.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2025-09-19T12:11:40.000Z",
+    "accession": "0001193125-25-208208",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000119312525208208/",
+    "primary": "d26751d8k.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2025-12-05T21:11:27.000Z",
+    "accession": "0001373715-25-000321",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000321/",
+    "primary": "now-20251205.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2025-11-19T21:20:12.000Z",
+    "accession": "0001193125-25-288132",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312525288132/",
+    "primary": "d851220d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2025-03-17T20:57:23.000Z",
+    "accession": "0001596532-25-000077",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000077/",
+    "primary": "anet-20250314.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2025-11-19T21:20:44.000Z",
+    "accession": "0001045810-25-000228",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000228/",
+    "primary": "nvda-20251119.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2025-12-15T21:12:11.000Z",
+    "accession": "0000002488-25-000182",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000182/",
+    "primary": "amd-20251212.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-05-12T20:30:28.000Z",
+    "accession": "0001140361-25-018400",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036125018400/",
+    "primary": "ef20048691_8k.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2025-12-29T11:17:04.000Z",
+    "accession": "0000050863-25-000204",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000204/",
+    "primary": "intc-20251226.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2025-08-25T20:37:44.000Z",
+    "accession": "0000804328-25-000049",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000049/",
+    "primary": "qcom-20250825.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-05-14T20:43:56.000Z",
+    "accession": "0000858877-25-000021",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000021/",
+    "primary": "csco-20250509.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2025-04-25T20:16:53.000Z",
+    "accession": "0001140361-25-015755",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000114036125015755/",
+    "primary": "ef20047830_8k.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2026-02-04T21:07:21.000Z",
+    "accession": "0001645590-26-000006",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000006/",
+    "primary": "hpe-20260204.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2026-02-26T21:08:45.000Z",
+    "accession": "0001571996-26-000003",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000003/",
+    "primary": "dell-20260226.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2026-02-25T21:03:12.000Z",
+    "accession": "0001108524-26-000056",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000056/",
+    "primary": "crm-20260225.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2025-09-26T20:05:13.000Z",
+    "accession": "0001193125-25-220445",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525220445/",
+    "primary": "d31817d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-01-30T21:17:12.000Z",
+    "accession": "0000796343-25-000036",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000036/",
+    "primary": "adbe-20250124.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2026-01-28T21:10:27.000Z",
+    "accession": "0000051143-26-000004",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000004/",
+    "primary": "ibm-20260128.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2025-12-11T21:17:37.000Z",
+    "accession": "0001730168-25-000116",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000116/",
+    "primary": "avgo-20251211.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2025-07-18T20:05:39.000Z",
+    "accession": "0001104659-25-069019",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465925069019/",
+    "primary": "tm2521153d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2025-09-18T20:05:04.000Z",
+    "accession": "0000097476-25-000048",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000009747625000048/",
+    "primary": "txn-20250918.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2025-08-20T11:02:53.000Z",
+    "accession": "0000006281-25-000142",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000142/",
+    "primary": "adi-20250820.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2025-10-29T20:11:33.000Z",
+    "accession": "0001373715-25-000305",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000305/",
+    "primary": "now-20251029.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2025-11-19T21:16:32.000Z",
+    "accession": "0001327567-25-000032",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000032/",
+    "primary": "panw-20251119.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2025-02-18T21:09:00.000Z",
+    "accession": "0001596532-25-000018",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000018/",
+    "primary": "anet-20250218.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2025-08-27T20:22:14.000Z",
+    "accession": "0001045810-25-000207",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/",
+    "primary": "nvda-20250827.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2025-11-04T21:16:10.000Z",
+    "accession": "0000002488-25-000163",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000163/",
+    "primary": "amd-20251104.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-05-01T20:30:21.000Z",
+    "accession": "0000320193-25-000055",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000055/",
+    "primary": "aapl-20250501.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2025-11-12T21:08:30.000Z",
+    "accession": "0000050863-25-000194",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000194/",
+    "primary": "intc-20251110.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2025-07-30T20:01:22.000Z",
+    "accession": "0000804328-25-000044",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000044/",
+    "primary": "qcom-20250730.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-05-14T20:17:33.000Z",
+    "accession": "0001193125-25-119864",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000119312525119864/",
+    "primary": "d946014d8k.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2025-04-17T21:07:47.000Z",
+    "accession": "0000047217-25-000034",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000034/",
+    "primary": "hpq-20250414.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2025-12-04T21:07:19.000Z",
+    "accession": "0001645590-25-000126",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000126/",
+    "primary": "hpe-20251204.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2025-11-25T21:10:47.000Z",
+    "accession": "0001571996-25-000118",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000118/",
+    "primary": "dell-20251125.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2025-12-03T21:04:55.000Z",
+    "accession": "0001108524-25-000234",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000234/",
+    "primary": "crm-20251203.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2025-09-22T12:22:12.000Z",
+    "accession": "0001193125-25-210089",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/",
+    "primary": "d921500d8k.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2025-01-17T21:05:22.000Z",
+    "accession": "0001193125-25-008409",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000119312525008409/",
+    "primary": "d856773d8k.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2025-10-23T20:16:36.000Z",
+    "accession": "0000051143-25-000063",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000063/",
+    "primary": "ibm-20251022.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2025-09-29T20:08:40.000Z",
+    "accession": "0001193125-25-223202",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312525223202/",
+    "primary": "d60592d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2025-06-25T20:03:10.000Z",
+    "accession": "0000723125-25-000019",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000019/",
+    "primary": "mu-20250625.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2025-07-22T20:03:24.000Z",
+    "accession": "0000097476-25-000033",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000009747625000033/",
+    "primary": "txn-20250722.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2025-06-16T20:18:36.000Z",
+    "accession": "0001193125-25-141431",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000119312525141431/",
+    "primary": "d42909d8k.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2025-09-26T20:12:21.000Z",
+    "accession": "0001373715-25-000300",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000300/",
+    "primary": "now-20250926.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2025-09-25T20:12:58.000Z",
+    "accession": "0001193125-25-217462",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000119312525217462/",
+    "primary": "d40588d8k.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2024-12-03T22:19:44.000Z",
+    "accession": "0001596532-24-000402",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000402/",
+    "primary": "anet-20241203.htm"
+  },
+  {
+    "company_name": "NVIDIA CORP",
+    "stock_name": "NVDA",
+    "filing_time": "2025-08-05T20:31:08.000Z",
+    "accession": "0001045810-25-000197",
+    "base": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000197/",
+    "primary": "nvda-20250731.htm"
+  },
+  {
+    "company_name": "ADVANCED MICRO DEVICES INC",
+    "stock_name": "AMD",
+    "filing_time": "2025-10-27T12:49:27.000Z",
+    "accession": "0001193125-25-250803",
+    "base": "https://www.sec.gov/Archives/edgar/data/2488/000119312525250803/",
+    "primary": "d917887d8k.htm"
+  },
+  {
+    "company_name": "Apple Inc.",
+    "stock_name": "AAPL",
+    "filing_time": "2025-02-25T21:47:19.000Z",
+    "accession": "0001140361-25-005876",
+    "base": "https://www.sec.gov/Archives/edgar/data/320193/000114036125005876/",
+    "primary": "ef20044022_8k.htm"
+  },
+  {
+    "company_name": "INTEL CORP",
+    "stock_name": "INTC",
+    "filing_time": "2025-10-23T20:10:22.000Z",
+    "accession": "0000050863-25-000169",
+    "base": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000169/",
+    "primary": "intc-20251023.htm"
+  },
+  {
+    "company_name": "QUALCOMM INC/DE",
+    "stock_name": "QCOM",
+    "filing_time": "2025-06-09T20:05:19.000Z",
+    "accession": "0001104659-25-057814",
+    "base": "https://www.sec.gov/Archives/edgar/data/804328/000110465925057814/",
+    "primary": "tm2517479d1_8k.htm"
+  },
+  {
+    "company_name": "CISCO SYSTEMS, INC.",
+    "stock_name": "CSCO",
+    "filing_time": "2025-05-13T13:00:38.000Z",
+    "accession": "0000858877-25-000014",
+    "base": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000014/",
+    "primary": "csco-20250512.htm"
+  },
+  {
+    "company_name": "HP INC",
+    "stock_name": "HPQ",
+    "filing_time": "2025-04-16T13:16:15.000Z",
+    "accession": "0001140361-25-014095",
+    "base": "https://www.sec.gov/Archives/edgar/data/47217/000114036125014095/",
+    "primary": "ny20045886x4_8k.htm"
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Co",
+    "stock_name": "HPE",
+    "filing_time": "2025-12-01T13:56:54.000Z",
+    "accession": "0001645590-25-000123",
+    "base": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000123/",
+    "primary": "hpe-20251128.htm"
+  },
+  {
+    "company_name": "Dell Technologies Inc.",
+    "stock_name": "DELL",
+    "filing_time": "2025-10-07T12:41:19.000Z",
+    "accession": "0001193125-25-232662",
+    "base": "https://www.sec.gov/Archives/edgar/data/1571996/000119312525232662/",
+    "primary": "d55706d8k.htm"
+  },
+  {
+    "company_name": "Salesforce, Inc.",
+    "stock_name": "CRM",
+    "filing_time": "2025-11-18T21:16:29.000Z",
+    "accession": "0001108524-25-000207",
+    "base": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000207/",
+    "primary": "crm-20251118.htm"
+  },
+  {
+    "company_name": "ORACLE CORP",
+    "stock_name": "ORCL",
+    "filing_time": "2025-09-09T20:13:19.000Z",
+    "accession": "0001193125-25-199175",
+    "base": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525199175/",
+    "primary": "orcl-20250909.htm"
+  },
+  {
+    "company_name": "ADOBE INC.",
+    "stock_name": "ADBE",
+    "filing_time": "2024-12-11T21:06:49.000Z",
+    "accession": "0000796343-24-000250",
+    "base": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000250/",
+    "primary": "adbe-20241211.htm"
+  },
+  {
+    "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "stock_name": "IBM",
+    "filing_time": "2025-10-22T20:13:59.000Z",
+    "accession": "0000051143-25-000061",
+    "base": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000061/",
+    "primary": "ibm-20251022.htm"
+  },
+  {
+    "company_name": "Broadcom Inc.",
+    "stock_name": "AVGO",
+    "filing_time": "2025-09-10T20:16:49.000Z",
+    "accession": "0001193125-25-200108",
+    "base": "https://www.sec.gov/Archives/edgar/data/1730168/000119312525200108/",
+    "primary": "d80277d8k.htm"
+  },
+  {
+    "company_name": "MICRON TECHNOLOGY INC",
+    "stock_name": "MU",
+    "filing_time": "2025-06-12T12:40:40.000Z",
+    "accession": "0001104659-25-058741",
+    "base": "https://www.sec.gov/Archives/edgar/data/723125/000110465925058741/",
+    "primary": "tm2517778d1_8k.htm"
+  },
+  {
+    "company_name": "TEXAS INSTRUMENTS INC",
+    "stock_name": "TXN",
+    "filing_time": "2025-05-23T21:13:28.000Z",
+    "accession": "0001193125-25-125915",
+    "base": "https://www.sec.gov/Archives/edgar/data/97476/000119312525125915/",
+    "primary": "d943827d8k.htm"
+  },
+  {
+    "company_name": "ANALOG DEVICES INC",
+    "stock_name": "ADI",
+    "filing_time": "2025-05-27T20:03:13.000Z",
+    "accession": "0001193125-25-127564",
+    "base": "https://www.sec.gov/Archives/edgar/data/6281/000119312525127564/",
+    "primary": "d33944d8k.htm"
+  },
+  {
+    "company_name": "ServiceNow, Inc.",
+    "stock_name": "NOW",
+    "filing_time": "2025-07-23T20:11:17.000Z",
+    "accession": "0001373715-25-000274",
+    "base": "https://www.sec.gov/Archives/edgar/data/1373715/000137371525000274/",
+    "primary": "now-20250723.htm"
+  },
+  {
+    "company_name": "Palo Alto Networks Inc",
+    "stock_name": "PANW",
+    "filing_time": "2025-08-18T20:13:24.000Z",
+    "accession": "0001327567-25-000024",
+    "base": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000024/",
+    "primary": "panw-20250813.htm"
+  },
+  {
+    "company_name": "Arista Networks, Inc.",
+    "stock_name": "ANET",
+    "filing_time": "2024-11-07T21:11:01.000Z",
+    "accession": "0001596532-24-000366",
+    "base": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000366/",
+    "primary": "anet-20241107.htm"
+  }
+]

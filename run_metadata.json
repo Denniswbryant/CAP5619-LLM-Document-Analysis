@@ -1,13 +1,43 @@
 {
-  "started_utc": "2026-11-01T21:04:52.037811+00:00",
-  "model": "llama3.1:8b",
-  "script_sha256": "c0214c38cb237085d0b61d081b13c520665b5fc7cddf065e98ef69eef1d962af",
-  "screening": "launch|unveil|introduc|new product|new service|general availability|debut",
-  "chunk_chars": 8000,
-  "overlap_chars": 1000,
-  "selection": "explicit manifest",
-  "ollama_models": {
+  "started_utc": "2026-11-04T01:12:19.166131+00:00",
+  "model": "qwen3:14b",
+  "options": {
+    "temperature": 0,
+    "seed": 42,
+    "num_ctx": 12288,
+    "num_predict": 5000
+  },
+  "thinking_enabled": false,
+  "script_sha256": "95d7105ec6fab8d7eb687f69361c3656f99769497d8c21b094795fd638e02fca",
+  "ollama_version": {
+    "version": "0.34.4"
+  },
+  "models": {
     "models": [
+      {
+        "name": "qwen3:14b",
+        "model": "qwen3:14b",
+        "modified_at": "2026-11-03T20:10:07.2120334-05:00",
+        "size": 9276198565,
+        "digest": "bdbd181c33f2ed1b31c972991882db3cf4d192569092138a7d29e973cd9debe8",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "qwen3",
+          "families": [
+            "qwen3"
+          ],
+          "parameter_size": "14.8B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 40960,
+          "embedding_length": 5120
+        },
+        "capabilities": [
+          "completion",
+          "tools",
+          "thinking"
+        ]
+      },
       {
         "name": "llama3.1:8b",
         "model": "llama3.1:8b",
@@ -33,16 +63,11 @@
       }
     ]
   },
-  "finished_utc": "2026-11-01T21:13:36.501482+00:00",
-  "filings_processed": 100,
-  "errors": 13,
-  "product_rows": 6,
-  "generation_settings": {
-    "temperature": 0,
-    "initial_seed": 42,
-    "num_ctx": 8192,
-    "extraction_num_predict": 4000,
-    "verification_num_predict": 400,
-    "validation_retries": 2
-  }
+  "definition": "Includes reporting-period launches; excludes existing-product-only mentions and vague future plans",
+  "target_products": 170,
+  "min_filings": 100,
+  "finished_utc": "2026-11-04T01:39:17.988702+00:00",
+  "filings_attempted": 220,
+  "unique_product_rows": 170,
+  "filings_with_errors": 0
 }
