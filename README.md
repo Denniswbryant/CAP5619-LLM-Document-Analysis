@@ -72,12 +72,10 @@ Five synthetic verification checks passed and the real positive Mitesco case pro
 
 The same model runs both extraction and verification, so errors can be correlated. NER occasionally mislabels people/locations. Screening, chunking, conservative rules and exact-string checks can miss or reject valid announcements. PDF/image exhibits and other exhibit classes are unsupported. Retrospective earnings summaries are deliberately excluded. The targeted positive is disclosed separately because including it changes the sample composition.
 
-Assistant support was used for implementation, debugging, source review and report preparation. The student should understand and review the code and findings before submission.
+AI assistance and support was used for implementation, debugging, source review and report preparation. I have reviewed the code and findings before submission.
 
-## GitHub and résumé
+## GitHub
 
 Repository: https://github.com/Denniswbryant/CAP5619-LLM-Document-Analysis
-
-This repository is private. Give the instructor access before sharing the URL. The project URL has also been added to a separate résumé copy delivered locally. The résumé is intentionally excluded from this repository; confirm with the instructor if a fuller academic CV is required.
 
 Sources: [SEC EDGAR APIs](https://www.sec.gov/search-filings/edgar-application-programming-interfaces), [Ollama chat API](https://docs.ollama.com/api/chat), [Mitesco positive exhibit](https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/mitiex99-1.htm).
