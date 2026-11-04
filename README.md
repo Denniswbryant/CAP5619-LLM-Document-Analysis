@@ -2,7 +2,7 @@
 
 Analyze SEC Form 8-K filings with a local LLM to extract new product introductions and structure them into a CSV.
 
-**Revised output: 102 reviewed product entries from 8 companies.** The run analyzed 220 filings from 20 companies. 0 filings had document-processing errors or partial processing. All descriptions contain fewer than 180 characters. The earlier three-row submission has been superseded.
+The run analyzed 220 filings from 20 companies. 0 filings had document-processing errors or partial processing. All descriptions contain fewer than 180 characters. The earlier three-row submission has been superseded.
 
 ## Required deliverables
 
@@ -10,7 +10,6 @@ Analyze SEC Form 8-K filings with a local LLM to extract new product introductio
 | --- | --- |
 | `extract.py` | Python implementation using Ollama for NER, extraction and verification |
 | `products.csv` | Final reviewed CSV with at least 100 genuine product records |
-| `products_pipe.txt` | Same output in the requested pipe-separated display format |
 | `methodology_report.docx` | Editable Word methodology report |
 
 The five final CSV columns are:
@@ -102,17 +101,6 @@ The first version rejected reporting-period launches and discarded entire filing
 The same model extracts and verifies, so its errors can be correlated. Keyword screening, passage boundaries and NER can miss products. Automatic name normalization does not resolve every alias; review remains necessary. PDF/image exhibits are unsupported. Company selection and the candidate-based stopping rule can bias results. Source quotations establish what a company reported, not independent verification of its marketing claims or future delivery.
 
 AI assistance and support were used for implementation, debugging, source review and report preparation.
-
-## Optional report rebuild
-
-```powershell
-python -m pip install -r requirements-report.txt
-python build_report.py
-```
-
-Edit `methodology_report.docx` in Word and upload it using the same filename. It is the single report to maintain.
-
-The optional builder recreates the Word report from the saved final summary and overwrites manual edits, so use it only when intentionally regenerating the report. The extraction itself does not require these reporting packages.
 
 ## GitHub
 
