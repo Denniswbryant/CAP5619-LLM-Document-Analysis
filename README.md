@@ -12,8 +12,6 @@ Analyze SEC Form 8-K filings with a local LLM to extract new product introductio
 | `products.csv` | Final reviewed CSV with at least 100 genuine product records |
 | `products_pipe.txt` | Same output in the requested pipe-separated display format |
 | `methodology_report.docx` | Editable Word methodology report |
-| `methodology_report.pdf` | Two-page methodology report |
-| `methodology_report.md` | Report text |
 
 The five final CSV columns are:
 
@@ -112,7 +110,9 @@ python -m pip install -r requirements-report.txt
 python build_report.py
 ```
 
-This rebuilds the reports from the saved final summary. The extraction itself does not require these reporting packages.
+Edit `methodology_report.docx` in Word and upload it using the same filename. It is the single report to maintain.
+
+The optional builder recreates the Word report from the saved final summary and overwrites manual edits, so use it only when intentionally regenerating the report. The extraction itself does not require these reporting packages.
 
 ## GitHub
 

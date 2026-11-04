@@ -1,4 +1,4 @@
-"""Create the two-page Word/PDF report from the final reviewed summary."""
+"""Create the two-page Word report from the final reviewed summary."""
 import json
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -7,9 +7,6 @@ from docx.shared import Inches, Pt, RGBColor
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.opc.constants import RELATIONSHIP_TYPE as RT
-from reportlab.lib.styles import ParagraphStyle
-from reportlab.lib.pagesizes import letter
-from reportlab.platypus import SimpleDocTemplate, Paragraph, PageBreak
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / 'submission' if (ROOT / 'submission' / 'summary.json').exists() else ROOT
@@ -72,16 +69,9 @@ title.paragraph_format.line_spacing = Pt(18); title.paragraph_format.space_after
 h = doc.styles['Heading 1']; h.font.size = Pt(11); h.font.bold = True
 h.paragraph_format.space_before = Pt(7); h.paragraph_format.space_after = Pt(4)
 h.paragraph_format.keep_with_next = True
-styles = {kind: ParagraphStyle(kind, fontName='Helvetica-Bold' if kind in ('title', 'h') else 'Helvetica',
-          fontSize={'title': 16, 'h': 11, 'meta': 9, 'link': 9, 'source': 8.5}.get(kind, 10.5),
-          leading={'title': 18, 'h': 14, 'meta': 11, 'link': 11, 'source': 11}.get(kind, 13.2),
-          spaceAfter=4 if kind == 'source' else 6, spaceBefore=7 if kind == 'h' else 0)
-          for kind in ['title', 'h', 'meta', 'link', 'p', 'source']}
-story, markdown = [], []
 for kind, text in body:
     if kind == 'page':
-        doc.add_page_break(); story.append(PageBreak()); continue
-    markdown.append(('# ' if kind == 'title' else '## ' if kind == 'h' else '') + text)
+        doc.add_page_break(); continue
     p = doc.add_paragraph(style='Title' if kind == 'title' else 'Heading 1' if kind == 'h' else 'Normal')
     if kind == 'link':
         add_link(p, text)
@@ -93,7 +83,6 @@ for kind, text in body:
             p.paragraph_format.line_spacing = Pt(11)
             p.paragraph_format.space_after = Pt(4)
         formatted = escape(text)
-    story.append(Paragraph(formatted, styles[kind]))
 # Remove Word theme-font and built-in title-border residue.
 for root in [doc._element, doc.styles.element]:
     for border in list(root.iter(qn('w:pBdr'))): border.getparent().remove(border)
@@ -105,12 +94,4 @@ footer.add_run('CAP5619 | Revised SEC product extraction').font.size = Pt(8)
 doc.core_properties.author = 'Dennis Bryant'
 doc.core_properties.title = 'SEC Form 8-K Product Extraction Methodology'
 doc.save(OUT / 'methodology_report.docx')
-pdf = SimpleDocTemplate(str(OUT / 'methodology_report.pdf'), pagesize=letter,
-                       leftMargin=43.2, rightMargin=43.2, topMargin=37.4, bottomMargin=39.6)
-def page_footer(canvas, document):
-    canvas.setFont('Helvetica', 8)
-    canvas.drawString(43.2, 20, 'CAP5619 | Revised SEC product extraction')
-    canvas.drawRightString(568.8, 20, str(document.page))
-pdf.build(story, onFirstPage=page_footer, onLaterPages=page_footer)
-(OUT / 'methodology_report.md').write_text('\n\n'.join(markdown) + '\n', encoding='utf-8')
-print('Created Word, PDF and Markdown methodology reports.')
+print('Created Word methodology report.')
